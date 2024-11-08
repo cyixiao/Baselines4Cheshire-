@@ -1,0 +1,5 @@
+Model: iE2348C_1286, AUC: 0.8289, F1: 0.7532, Accuracy: 0.7486
+Model: iE2348C_1286, AUC: 0.8308, F1: 0.7582, Accuracy: 0.7542
+Model: iE2348C_1286, AUC: 0.8081, F1: 0.7407, Accuracy: 0.7348
+Model: iE2348C_1286, AUC: 0.8190, F1: 0.7400, Accuracy: 0.7246
+Model: iE2348C_1286, AUC: 0.8148, F1: 0.7489, Accuracy: 0.7458

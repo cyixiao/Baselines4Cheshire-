@@ -1,0 +1,2 @@
+Model: iECED1_1282, AUC: 0.8072, F1: 0.7367, Accuracy: 0.7315
+Model: iECED1_1282, AUC: 0.8054, F1: 0.7335, Accuracy: 0.7325

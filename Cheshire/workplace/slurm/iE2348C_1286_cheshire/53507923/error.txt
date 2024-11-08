@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/nas/longleaf/home/cyixiao/Project/Cheshire/main.py", line 1, in <module>
+    from predict import *
+  File "/nas/longleaf/home/cyixiao/Project/Cheshire/predict.py", line 1, in <module>
+    from utils import *
+  File "/nas/longleaf/home/cyixiao/Project/Cheshire/utils.py", line 8, in <module>
+    from node2vec import Node2Vec
+ModuleNotFoundError: No module named 'node2vec'

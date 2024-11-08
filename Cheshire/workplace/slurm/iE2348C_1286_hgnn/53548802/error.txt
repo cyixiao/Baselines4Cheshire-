@@ -1,0 +1,16 @@
+  0%|          | 0/100 [00:00<?, ?it/s]  0%|          | 0/100 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "/nas/longleaf/home/cyixiao/Project/Cheshire/main.py", line 35, in <module>
+    main()
+  File "/nas/longleaf/home/cyixiao/Project/Cheshire/main.py", line 16, in main
+    auc, f1, accuracy = get_prediction_score(name=args.name)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nas/longleaf/home/cyixiao/Project/Cheshire/predict.py", line 80, in get_prediction_score
+    train(train_pos, y_train, train_data, model, optimizer)
+  File "/nas/longleaf/home/cyixiao/Project/Cheshire/predict.py", line 18, in train
+    loss = hyperlink_score_loss(y_pred, y)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nas/longleaf/home/cyixiao/Project/Cheshire/utils.py", line 101, in hyperlink_score_loss
+    negative_score = torch.mean(y_pred[y == 0])
+                                ~~~~~~^^^^^^^^
+IndexError: too many indices for tensor of dimension 0

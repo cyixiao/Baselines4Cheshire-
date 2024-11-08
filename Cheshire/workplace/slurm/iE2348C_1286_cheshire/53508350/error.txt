@@ -1,0 +1,17 @@
+Traceback (most recent call last):
+  File "/nas/longleaf/home/cyixiao/Project/Cheshire/main.py", line 35, in <module>
+    main()
+  File "/nas/longleaf/home/cyixiao/Project/Cheshire/main.py", line 16, in main
+    auc, f1, accuracy = get_prediction_score(name=args.name)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nas/longleaf/home/cyixiao/Project/Cheshire/predict.py", line 93, in get_prediction_score
+    train_neg = create_neg_incidence_matrix(train_pos).to(device)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nas/longleaf/home/cyixiao/Project/Cheshire/utils.py", line 93, in create_neg_incidence_matrix
+    edge_neg_l = torch.tensor(np.random.choice(nodes, math.floor(len(nodes) * 0.5), replace=False))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "numpy/random/mtrand.pyx", line 937, in numpy.random.mtrand.RandomState.choice
+  File "/nas/longleaf/home/cyixiao/test_env/lib64/python3.11/site-packages/torch/_tensor.py", line 1083, in __array__
+    return self.numpy()
+           ^^^^^^^^^^^^
+TypeError: can't convert cuda:0 device type tensor to numpy. Use Tensor.cpu() to copy the tensor to host memory first.

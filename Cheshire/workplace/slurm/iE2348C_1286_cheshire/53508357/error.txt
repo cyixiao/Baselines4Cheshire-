@@ -1,0 +1,25 @@
+  0%|          | 0/30 [00:00<?, ?it/s]  0%|          | 0/30 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "/nas/longleaf/home/cyixiao/Project/Cheshire/main.py", line 35, in <module>
+    main()
+  File "/nas/longleaf/home/cyixiao/Project/Cheshire/main.py", line 16, in main
+    auc, f1, accuracy = get_prediction_score(name=args.name)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nas/longleaf/home/cyixiao/Project/Cheshire/predict.py", line 106, in get_prediction_score
+    train(train_pos, y_train, train_data, model, optimizer)
+  File "/nas/longleaf/home/cyixiao/Project/Cheshire/predict.py", line 16, in train
+    y_pred = model(feature, incidence_matrix)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nas/longleaf/home/cyixiao/test_env/lib64/python3.11/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nas/longleaf/home/cyixiao/test_env/lib64/python3.11/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nas/longleaf/home/cyixiao/Project/Cheshire/CHESHIRE.py", line 23, in forward
+    edge_index, batch = self.expansion(hyperedge_index)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nas/longleaf/home/cyixiao/Project/Cheshire/CHESHIRE.py", line 70, in expansion
+    edge_index = torch.cat((edge_index, edge), dim=1)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cpu and cuda:0! (when checking argument for argument tensors in method wrapper_CUDA_cat)

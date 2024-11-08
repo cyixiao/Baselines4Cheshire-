@@ -1,0 +1,15 @@
+Model: iB21_1397, AUC: 0.8139, F1: 0.7450, Accuracy: 0.7432
+Model: iB21_1397, AUC: 0.8286, F1: 0.7500, Accuracy: 0.7505
+Model: iB21_1397, AUC: 0.8202, F1: 0.7500, Accuracy: 0.7432
+Model: iB21_1397, AUC: 0.8291, F1: 0.7498, Accuracy: 0.7550
+Model: iB21_1397, AUC: 0.8297, F1: 0.7402, Accuracy: 0.7404
+Model: iB21_1397, AUC: 0.8432, F1: 0.7698, Accuracy: 0.7696
+Model: iB21_1397, AUC: 0.8182, F1: 0.7550, Accuracy: 0.7641
+Model: iB21_1397, AUC: 0.8191, F1: 0.7462, Accuracy: 0.7423
+Model: iB21_1397, AUC: 0.8162, F1: 0.7514, Accuracy: 0.7505
+Model: iB21_1397, AUC: 0.8495, F1: 0.7594, Accuracy: 0.7605
+Model: iB21_1397, AUC: 0.8288, F1: 0.7440, Accuracy: 0.7486
+Model: iB21_1397, AUC: 0.8202, F1: 0.7587, Accuracy: 0.7532
+Model: iB21_1397, AUC: 0.8081, F1: 0.7308, Accuracy: 0.7450
+Model: iB21_1397, AUC: 0.8317, F1: 0.7566, Accuracy: 0.7568
+Model: iB21_1397, AUC: 0.8169, F1: 0.7392, Accuracy: 0.7359

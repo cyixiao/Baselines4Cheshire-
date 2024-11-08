@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/nas/longleaf/home/cyixiao/Project/Cheshire/main.py", line 35, in <module>
+    main()
+  File "/nas/longleaf/home/cyixiao/Project/Cheshire/main.py", line 16, in main
+    auc, f1, accuracy = get_prediction_score(name=args.name)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nas/longleaf/home/cyixiao/Project/Cheshire/predict.py", line 84, in get_prediction_score
+    pos_df = pd.DataFrame(pos_tensor.numpy())
+                          ^^^^^^^^^^^^^^^^^^
+TypeError: can't convert cuda:0 device type tensor to numpy. Use Tensor.cpu() to copy the tensor to host memory first.
