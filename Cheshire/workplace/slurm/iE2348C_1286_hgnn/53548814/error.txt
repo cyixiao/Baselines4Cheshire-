@@ -1,1 +1,0 @@
-slurmstepd: error: *** JOB 53548814 ON g0311 CANCELLED AT 2024-11-07T23:10:57 ***

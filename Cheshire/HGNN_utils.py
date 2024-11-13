@@ -106,9 +106,9 @@ def _generate_G_from_H(H, variable_weight=False):
     # the weight of the hyperedge
     W = np.ones(n_edge)
     # the degree of the node
-    DV = np.sum(H * W, axis=1)
+    DV = np.sum(H * W, axis=1) + 1e-5
     # the degree of the hyperedge
-    DE = np.sum(H, axis=0)
+    DE = np.sum(H, axis=0) + 1e-5
 
     invDE = np.mat(np.diag(np.power(DE, -1)))
     DV2 = np.mat(np.diag(np.power(DV, -0.5)))

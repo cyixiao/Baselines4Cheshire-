@@ -1,6 +1,0 @@
-Traceback (most recent call last):
-  File "/nas/longleaf/home/cyixiao/Project/Cheshire/main.py", line 1, in <module>
-    from predict import *
-  File "/nas/longleaf/home/cyixiao/Project/Cheshire/predict.py", line 5, in <module>
-    from HGNN import HGNN
-ImportError: cannot import name 'HGNN' from 'HGNN' (/nas/longleaf/home/cyixiao/Project/Cheshire/HGNN.py)

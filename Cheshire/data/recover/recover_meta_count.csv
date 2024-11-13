@@ -1,0 +1,508 @@
+name,smiles,name_id,chebi,count
+"(9Z,11E)-(13S)-13-Hydroxyoctadeca-9,11-dienoic acid",CCCCCC(O)/C=C/C=C\CCCCCCCC(=O)[O-],13Shocdcy1829Z11Ea_c,CHEBI:133819,21
+1-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:0),CCCCCCCCCCCCCC(=O)OC[C@@H](O)COP(=O)([O-])OCC[NH3+],1agpe140_c,CHEBI:84299,28
+1-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:0),CCCCCCCCCCCCCCCC(=O)OC[C@@H](O)COP(=O)([O-])OCC[NH3+],1agpe160_c,CHEBI:73004,30
+1-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:0),CCCCCCCCCCCCCCCCCC(=O)OC[C@@H](O)COP(=O)([O-])OCC[NH3+],1agpe180_c,CHEBI:75036,32
+1-Acyl-sn-glycero-3-phosphoglycerol (n-C14:0),CCCCCCCCCCCCCC(=O)OC[C@@H](O)COP(=O)([O-])OC[C@@H](O)CO,1agpg140_p,CHEBI:72826,30
+1-Acyl-sn-glycero-3-phosphoglycerol (n-C18:0),CCCCCCCCCCCCCCCCCC(=O)OC[C@@H](O)COP(=O)([O-])OC[C@@H](O)CO,1agpg180_p,CHEBI:72827,34
+1-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1),CCCCCCCC/C=C\CCCCCCCC(=O)OC[C@@H](O)COP(=O)([O-])OC[C@@H](O)CO,1agpg181_p,CHEBI:72828,34
+1-dodecanoyl-sn-glycerol 3-phosphate,CCCCCCCCCCCC(=O)OC[C@@H](O)COP(=O)(O)O,1ddecg3p_c,CHEBI:62840,23
+1-octadecanoyl-sn-glycerol 3-phosphate,CCCCCCCCCCCCCCCCCC(=O)OC[C@@H](O)COP(=O)([O-])[O-],1odecg3p_c,CHEBI:74565,29
+L 1 Pyrroline 3 hydroxy 5 carboxylate C5H6NO3,O=C(O)[C@@H]1C[C@@H](O)C=N1,1p3h5c_c,CHEBI:6151,9
+1-tetradecanoyl-sn-glycerol 3-phosphate,CCCCCCCCCCCCCC(=O)OC[C@@H](O)COP(=O)(O)O,1tdecg3p_c,CHEBI:62833,25
+"2,3-dehydroadipyl-CoA",CC(C)(COP(=O)([O-])OP(=O)([O-])OC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1OP(=O)([O-])[O-])[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)/C=C\CCC(=O)[O-],23dhacoa_c,CHEBI:67261,57
+"2,3-Dihydrodipicolinate",O=C([O-])C1=NC(C(=O)[O-])CC=C1,23dhdp_c,CHEBI:11421,12
+"2,3-Dimethyl-5-phytylquinol",C/C(=C\Cc1cc(O)c(C)c(C)c1O)CCC[C@H](C)CCC[C@H](C)CCCC(C)C,23dmphol_c,CHEBI:75921,30
+"2,4-Dihydroxyhept-2-enedioate",O=C([O-])CCC(O)C=C(O)C(=O)[O-],24dhhed_c,CHEBI:58936,13
+2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:0),CCCCCCCCCCCCCCCC(=O)O[C@H](CO)COP(=O)(O)OCCN,2agpe160_c,CHEBI:131743,30
+2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:0),CCCCCCCCCCCCCCCCCC(=O)O[C@H](CO)COP(=O)([O-])OCC[NH3+],2agpe180_c,CHEBI:133144,32
+2-(alpha-Hydroxyethyl)thiamine diphosphate,Cc1ncc(C[n+]2c(C(C)O)sc(CCOP(=O)([O-])OP(=O)([O-])[O-])c2C)c(N)n1,2ahethmpp_c,CHEBI:58939,29
+2-Demethylmenaquinone 8,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC1=CC(=O)c2ccccc2C1=O,2dmmq8_c,CHEBI:48455,52
+2-Demethylmenaquinol 8,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/Cc1cc(O)c2ccccc2c1O,2dmmql8_c,CHEBI:61873,52
+2 hydroxy 3 keto 5 methylthiopentenyl 1 phosphate C6H8O6PS,CSCCC(=O)C(O)=COP(=O)(O)O,2h3k5m_c,CHEBI:50605,14
+2 Hydroxybutyrate C4H7O3,CCC(O)C(=O)O,2hb_c,CHEBI:1148,7
+2-methyl-3-oxosuccinate,CC(C(=O)O)C(=O)C(=O)O,2m3osuc_c,CHEBI:50793,10
+2-Methyl-6-phytylquinol,C/C(=C\Cc1cc(O)cc(C)c1O)CCC[C@H](C)CCC[C@H](C)CCCC(C)C,2m6phol_c,CHEBI:75920,29
+2-Methylcitrate,C[C@H](C(=O)[O-])[C@](O)(CC(=O)[O-])C(=O)[O-],2mcit_c,CHEBI:10860,14
+2-Octaprenyl-6-hydroxyphenol,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/Cc1cccc(O)c1O,2ohph_c,CHEBI:1233,48
+"2-Octaprenyl-6-methoxy-1,4-benzoquinol",COc1cc(O)cc(C/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CCC=C(C)C)c1O,2ombzl_c,CHEBI:60655,50
+"2-Octaprenyl-3-methyl-6-methoxy- 1,4-benzoquinol",COc1cc(O)c(C)c(C/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CCC=C(C)C)c1O,2ommbl_c,CHEBI:60656,51
+2-Octaprenyl-6-methoxyphenol,COc1cccc(C/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CCC=C(C)C)c1O,2omph_c,CHEBI:1235,49
+2-oxepin-2(3H)-ylideneacetyl-CoA,CC(C)(COP(=O)(O)OP(=O)(O)OC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1OP(=O)(O)O)[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)/C=C1/CC=CC=CO1,2oxpaccoa_c,CHEBI:63251,58
+2-phospho-L-lactate,C[C@H](OP(=O)(O)O)C(=O)O,2plac__L_c,CHEBI:45013,10
+2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate,C=C(O[C@H]1C=C[C@H](C(=O)CCC(=O)O)[C@@H](C(=O)O)[C@@H]1O)C(=O)O,2sephchc_c,CHEBI:50271,23
+"2-Succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate",O=C(O)CCC(=O)C1=CC=C[C@@H](O)[C@@H]1C(=O)O,2shchc_c,CHEBI:39564,17
+2-(sulfomethyl)thiazolidine-4-carboxylic acid,O=C(O)[C@@H]1CSC(CS(=O)(=O)O)N1,2tcc_c,CHEBI:73964,13
+2'-(5''-triphosphoribosyl)-3'-dephospho-CoA,CC(C)(COP(=O)(O)OP(=O)(O)OC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O[C@H]2O[C@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]2O)[C@@H]1O)[C@@H](O)C(=O)NCCC(=O)NCCS,2tpr3dpcoa_c,CHEBI:11392,65
+"3,4-dihydroxybenzaldehyde",O=Cc1ccc(O)c(O)c1,34dhbald_c,CHEBI:50205,10
+"3,4-Dihydroxyphenylethyleneglycol",OCC(O)c1ccc(O)c(O)c1,34dhoxpeg_c,CHEBI:1387,12
+3-acetamidopropanal,CC(=O)NCCC=O,3aap_c,CHEBI:30322,8
+3-Aminoacrylate,N/C=C\C(=O)O,3amac_c,CHEBI:59893,6
+3 aminobutanoic acid C4H9NO2,CC(N)CC(=O)O,3amba_c,CHEBI:37081,7
+3-hydroxy butyryl carnitine,CC(O)CC(=O)OC(CC(=O)[O-])C[N+](C)(C)C,3bcrn_c,CHEBI:72995,17
+3-Carboxy-3-hydroxy-4-methylpentanoate,CC(C)[C@@](O)(CC(=O)[O-])C(=O)[O-],3c3hmp_c,CHEBI:1178,12
+3-hydroxydodecanoylcarnitine,CCCCCCCCCC(O)CC(=O)OC(CC(=O)[O-])C[N+](C)(C)C,3ddcrn_c,CHEBI:73056,25
+3-hydroxydecanoylcarnitine,CCCCCCCC(O)CC(=O)OC(CCC(=O)[O-])[N+](C)(C)C,3deccrn_c,CHEBI:73051,23
+3-keto-L-gulonate-6-phosphate,O=C(O)[C@@H](O)C(=O)[C@H](O)[C@@H](O)COP(=O)(O)O,3dhgulnp_c,CHEBI:49039,17
+"3-D-Glucosyl-1,2-diacylglycerol",*C(=O)OC[C@H](CO[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)OC(*)=O,3g12dgr_SA2_c,CHEBI:75799,21
+3-hydroxycinnamic acid,O=C(O)/C=C/c1cccc(O)c1,3hcinnm_c,CHEBI:32357,12
+3-hydroxyhexadecanoylcarnitine,CCCCCCCCCCCCCC(O)CC(=O)OC(CC(=O)[O-])C[N+](C)(C)C,3hexdcrn_c,CHEBI:73070,29
+(R)-3-Hydroxy-3-methyl-2-oxopentanoate,CC[C@@](C)(O)C(=O)C(=O)O,3hmop_c,CHEBI:34008,10
+(S)-3-Hydroxyoctadecanoyl-CoA,CCCCCCCCCCCCCCC[C@H](O)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1OP(=O)(O)O,3hodcoa_c,CHEBI:50577,68
+3-(3-hydroxy-phenyl)propionate,O=C(O)CCc1cccc(O)c1,3hpppn_c,CHEBI:1427,12
+C'-(3-Indolyl)-glycerol 3-phosphate,O=P(O)(O)OC[C@@H](O)[C@@H](O)c1c[nH]c2ccccc12,3ig3p_c,CHEBI:51793,19
+3-Methoxytyramine,COc1cc(CCN)ccc1O,3moxtyr_c,CHEBI:1582,12
+3 Methylthiopropionate C4H7O2S,CSCCC(=O)O,3mtp_c,CHEBI:1438,7
+3 Nitrotyramine C8H15N2,NCCc1ccc(O)c([N+](=O)[O-])c1,3ntym_e,CHEBI:71233,13
+3-Oxohexadecanoyl-[acyl-carrier protein],*SC(=O)CC(=O)CCCCCCCCCCCCC,3opalmACP_c,CHEBI:1639,19
+3-Octaprenyl-4-hydroxybenzoate,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/Cc1cc(C(=O)[O-])ccc1O,3ophb_c,CHEBI:1617,50
+"3-oxo-5,6-dehydrosuberyl-CoA",CC(C)(COP(=O)(O)OP(=O)(O)OC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1OP(=O)(O)O)[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)CC(=O)CC=CCC(=O)O,3oxdhscoa_c,CHEBI:63253,60
+3-hydroxy-tetradecanoyl carnitine,CCCCCCCCCCCC(O)CC(=O)OC(CC(=O)[O-])C[N+](C)(C)C,3tdcrn_c,CHEBI:73063,27
+3-Ureidoisobutyrate,CC(CNC(N)=O)C(=O)O,3uib_c,CHEBI:1670,10
+[4Fe-4S] iron-sulfur cluster,[S]12[Fe]3[S]4[Fe]1[S]1[Fe]2[S]3[Fe]41,4fe4s_c,CHEBI:33725,8
+4-Hydroxy-2-ketopimelate,O=C([O-])CCC(O)CC(=O)C(=O)[O-],4h2kpi_c,CHEBI:73036,13
+4 Hydroxy 3 Nitro Phenylacetaldehyde C8H11NO,O=CCc1ccc(O)c([N+](=O)[O-])c1,4h3npacald_c,CHEBI:71235,13
+4-Hydroxy-benzyl alcohol,OCc1ccc(O)cc1,4hba_c,CHEBI:67410,9
+4-Hydroxyphenylacetate,CC(=O)Oc1ccc(O)cc1,4hphac_c,CHEBI:31128,11
+4-Imidazolone-5-propanoate,O=C(O)CC[C@@H]1NC=NC1=O,4izp_c,CHEBI:11041,11
+D-4'-Phosphopantothenate,CC(C)(COP(=O)([O-])[O-])[C@@H](O)C(=O)NCCC(=O)[O-],4ppan_c,CHEBI:10986,19
+"5,6-Indolequinone-2-carboxylic acid",O=C1C=c2cc(C(=O)O)[nH]c2=CC1=O,56iqcrbxlt_c,CHEBI:81394,14
+5-Amino-4-oxopentanoate,NCC(=O)CCC(=O)[O-],5aop_c,CHEBI:12109,9
+5-phosphoribosyl-5-carboxyaminoimidazole,O=C(O)Nc1cncn1[C@@H]1O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]1O,5caiz_c,CHEBI:48000,22
+5'-deoxyribose,C[C@@H](O)[C@@H](O)[C@@H](O)C=O,5drib_c,CHEBI:62012,9
+5-Fluorouridine monophosphate,O=c1[nH]c(=O)n([C@@H]2O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]2O)cc1F,5flurimp_c,CHEBI:40101,22
+"5-Hydroxy-2-oxo-4-ureido-2,5-dihydro-1H-imidazole-5-carboxylate",NC(=O)NC1=NC(=O)NC1(O)C(=O)O,5houdic_c,CHEBI:31132,14
+5-Phosphoguanylyl(3->5)guanosine,Nc1nc2c(ncn2[C@@H]2O[C@H](COP(=O)(O)O[C@H]3[C@@H](O)[C@H](n4cnc5c(=O)[nH]c(N)nc54)O[C@@H]3COP(=O)(O)O)[C@@H](O)[C@H]2O)c(=O)[nH]1,5pg35pg_c,CHEBI:48622,47
+6-Mercaptopurine,Sc1ncnc2nc[nH]c12,6mpur_c,CHEBI:2208,10
+8-Amino-7-oxononanoate,CC(N)C(=O)CCCCCC(=O)[O-],8aonn_c,CHEBI:12266,13
+Acyl phosphatidylinositol mannoside (tuberculosis),*C(=O)OC[C@H](COP(=O)([O-])O[C@H]1[C@H](O)[C@@H](O)[C@H](O)[C@@H](O)[C@H]1O[C@H]1O[C@H](COC(*)=O)[C@@H](O)[C@H](O)[C@@H]1O)OC(*)=O,Ac1PIM1_c,CHEBI:88053,38
+Neurotensin,CC[C@H](C)[C@H](NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCCN)NC(=O)[C@H](CC(N)=O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H]1CCC(=O)N1)C(=O)N[C@@H](CC(C)C)C(=O)O,C01836_c,CHEBI:7542,119
+Xanthurenic acid,O=C(O)c1cc(O)c2cccc(O)c2n1,C02470_c,CHEBI:10072,15
+Thyrotropin releasing hormone,NC(=O)[C@@H]1CCCN1C(=O)[C@H](Cc1cnc[nH]1)NC(=O)[C@@H]1CCC(=O)N1,C03958_e,CHEBI:35940,26
+C04051,NC(=O)c1nc[nH]c1N,C04051_c,CHEBI:2030,9
+"Androst-5-ene-3beta,17beta-diol",C[C@]12CC[C@H]3[C@@H](CC=C4C[C@@H](O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,C04295_c,CHEBI:2710,21
+2-Hydroxyestrone,C[C@]12CC[C@@H]3c4cc(O)c(O)cc4CC[C@H]3[C@@H]1CCC2=O,C05298_c,CHEBI:1156,21
+2-Methoxyestrone,COc1cc2c(cc1O)CC[C@@H]1[C@@H]2CC[C@]2(C)C(=O)CC[C@@H]12,C05299_c,CHEBI:1189,22
+Prostaglandin J2,CCCCC[C@H](O)/C=C/[C@H]1C(=O)C=C[C@@H]1C/C=C\CCCC(=O)[O-],C05957_c,CHEBI:133396,24
+Hordenine,CN(C)CCc1ccc(O)cc1,C06199_c,CHEBI:5764,12
+Lipoxin A4(1-),CCCCC[C@H](O)/C=C/C=C\C=C\C=C\[C@@H](O)[C@@H](O)CCCC(=O)O,C06314_c,CHEBI:6498,25
+Lipoxin B4(1-),CCCCC[C@H](O)[C@H](O)/C=C/C=C/C=C\C=C\[C@@H](O)CCCC(=O)O,C06315_c,CHEBI:6499,25
+Nordazepam,O=C1CN=C(c2ccccc2)c2cc(Cl)ccc2N1,C07486_c,CHEBI:111762,19
+3-(methylthio)propionate,CSCCC(=O)O,C08276_c,CHEBI:1438,7
+Harman,Cc1nccc2c1[nH]c1ccccc12,C09209_c,CHEBI:5623,14
+Anandamide,CCCCC/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)NCCO,C11695_c,CHEBI:2700,25
+"5,6-EET",CCCCC/C=C\C/C=C\C/C=C\CC1OC1CCCC(=O)[O-],C14768_c,CHEBI:131992,23
+"8,9-EET",CCCCC/C=C\C/C=C\CC1OC1C/C=C\CCCC(=O)O,C14769_c,CHEBI:34490,23
+"11,12-EET",CCCCC/C=C\CC1OC1C/C=C\C/C=C\CCCC(=O)O,C14770_c,CHEBI:34130,23
+"14,15-EET",CCCCCC1OC1C/C=C\C/C=C\C/C=C\CCCC(=O)O,C14771_c,CHEBI:34157,23
+9(10)-EpOME,CCCCC/C=C\CC1OC1CCCCCCCC(=O)O,C14825_c,CHEBI:34494,21
+12(13)-EpOME,CCCCCC1OC1C/C=C\CCCCCCCC(=O)O,C14826_c,CHEBI:38299,21
+Alloxan,O=C1NC(=O)C(=O)C(=O)N1,CE0074_c,CHEBI:76451,10
+6-oxo-prostaglandin F1alpha,CCCCC[C@H](O)/C=C/[C@@H]1[C@@H](CC(=O)CCCCC(=O)[O-])[C@@H](O)C[C@H]1O,CE0955_c,CHEBI:133451,26
+12S-HHT,CCCCC[C@H](O)/C=C/C=C/C/C=C\CCCC(=O)O,CE1243_c,CHEBI:63977,20
+Homocysteine thiolactone,N[C@H]1CCSC1=O,CE1401_c,CHEBI:60315,7
+11-dehydrothromboxane B2,CCCCC[C@H](O)/C=C/[C@H]1OC(=O)C[C@H](O)[C@@H]1C/C=C\CCCC(=O)[O-],CE1447_c,CHEBI:136539,26
+N-acetyl-L-alanine,CC(=O)N[C@@H](C)C(=O)[O-],CE1554_c,CHEBI:133520,9
+"5,6-indolequinone-2-carboxylate",O=C1C=c2cc(C(=O)O)[nH]c2=CC1=O,CE1562_c,CHEBI:81394,14
+Deoxycholoyl-CoA,C[C@H](CCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1OP(=O)(O)O)[C@H]1CC[C@H]2[C@@H]3CC[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,CE1589_c,CHEBI:50111,75
+9-cis-retinoate,CC1=C(/C=C/C(C)=C\C=C\C(C)=C\C(=O)O)C(C)(C)CCC1,CE1617_c,CHEBI:50648,22
+1-pyrrolinium,C1=NCCC1,CE1944_c,CHEBI:19092,5
+4-hydroxy-2-nonenal,CCCCCC(O)C=CC=O,CE2006_c,CHEBI:32585,11
+Hypothiocyanite,N#CSO,CE2011_c,CHEBI:133907,4
+Beta-hydroxy-beta-methylbutyrate,CC(C)(O)CC(=O)O,CE2028_c,CHEBI:37084,8
+"9,10-hydroxyoctadec-12(Z)-enoate",CCCCC/C=C\CC(O)C(O)CCCCCCCC(=O)O,CE2047_c,CHEBI:72663,22
+20-oxo-leukotriene B4,O=CCCCC/C=C\C[C@@H](O)/C=C/C=C/C=C\[C@@H](O)CCCC(=O)O,CE2053_c,CHEBI:63979,25
+20-dihydroxyleukotriene B4,O=C([O-])CCC[C@H](O)/C=C\C=C\C=C\[C@H](O)C/C=C\CCCCC(O)O,CE2056_c,CHEBI:133437,26
+Methyl indole-3-acetate,COC(=O)Cc1c[nH]c2ccccc12,CE2122_c,CHEBI:72782,14
+3-O-methyldopa,COc1cc(C[C@H]([NH3+])C(=O)[O-])ccc1O,CE2176_c,CHEBI:133668,15
+4-hydroxyestrone,C[C@]12CC[C@@H]3c4ccc(O)c(O)c4CC[C@H]3[C@@H]1CCC2=O,CE2180_c,CHEBI:87602,21
+"23S,25-dihydroxyvitamin D3",C=C1CC[C@H](O)C/C1=C/C=C1\CCC[C@]2(C)[C@@H]([C@H](C)C[C@H](O)CC(C)(C)O)CC[C@@H]12,CE2201_c,CHEBI:47214,30
+"23S,25,26-trihydroxyvitamin D3",C=C1CC[C@H](O)C/C1=C/C=C1\CCC[C@]2(C)[C@@H]([C@H](C)C[C@H](O)CC(C)(O)CO)CC[C@@H]12,CE2202_c,CHEBI:47803,31
+"24-oxo-1alpha,25-dihydroxyvitamin D3",C=C1/C(=C\C=C2/CCC[C@]3(C)[C@@H]([C@H](C)CCC(=O)C(C)(C)O)CC[C@@H]23)C[C@@H](O)C[C@@H]1O,CE2206_c,CHEBI:47812,31
+"24-oxo-1alpha,23,25-trihydroxyvitamin D3",C=C1/C(=C\C=C2/CCC[C@]3(C)[C@@H]([C@H](C)CC(O)C(=O)C(C)(C)O)CC[C@@H]23)C[C@@H](O)C[C@@H]1O,CE2207_c,CHEBI:47813,32
+Allopregnanolone,CC(=O)[C@H]1CC[C@H]2[C@@H]3CC[C@H]4C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]12C,CE2211_c,CHEBI:11909,23
+Trans-docos-2-enoyl-CoA,CCCCCCCCCCCCCCCCCCC/C=C/C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)([O-])OP(=O)([O-])OC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1OP(=O)([O-])[O-],CE2242_c,CHEBI:74692,71
+6-trans-leukotriene B4,CCCCC/C=C\C[C@@H](O)/C=C/C=C/C=C/[C@@H](O)CCCC(=O)O,CE2445_c,CHEBI:63981,24
+15-epi-lipoxin A4,CCCCC[C@H](O)/C=C/C=C\C=C\C=C\[C@H](O)[C@@H](O)CCCC(=O)O,CE2568_c,CHEBI:63990,25
+15-epi-lipoxin B4,CCCCC[C@@H](O)[C@H](O)/C=C/C=C/C=C\C=C\[C@@H](O)CCCC(=O)O,CE2569_c,CHEBI:63991,25
+4-oxo-2-nonenal,CCCCCC(=O)/C=C/C=O,CE2577_c,CHEBI:58972,11
+Fructoseglycine,O=C(O)CNCC(=O)[C@@H](O)[C@H](O)[C@H](O)CO,CE2847_c,CHEBI:24108,16
+3'-monoiodo-L-thyronine,NC(Cc1ccc(Oc2ccc(O)cc2)cc1)C(=O)O,CE2874_c,CHEBI:30661,20
+Apelin-13,CSCC[C@H](NC(=O)[C@@H]1CCCN1C(=O)CNC(=O)[C@H](CCCCN)NC(=O)[C@H](Cc1cnc[nH]1)NC(=O)[C@H](CO)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCNC(=N)N)NC(=O)[C@@H](N)CCC(N)=O)C(=O)N1CCC[C@H]1C(=O)N[C@@H](Cc1ccccc1)C(=O)O,CE2917_c,CHEBI:80131,109
+O-methylhippurate,Cc1ccccc1C(=O)NCC(=O)O,CE2934_c,CHEBI:68455,14
+"All-trans-3,4-didehydroretinoate",CC1=C(/C=C/C(C)=C/C=C/C(C)=C/C(=O)[O-])C(C)(C)CC=C1,CE2955_c,CHEBI:132260,22
+Sorbitol 3-phosphate,O=P(O)(O)O[C@@H]([C@H](O)[C@H](O)CO)[C@@H](O)CO,CE3075_c,CHEBI:21092,16
+Beta-carboline,c1ccc2c(c1)[nH]c1cnccc12,CE3087_c,CHEBI:109895,13
+1-lyso-2-arachidonoyl-phosphatidate,CCCCC/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)O[C@H](CO)COP(=O)([O-])[O-],CE3481_c,CHEBI:78209,31
+20-trihydroxy-leukotriene-B4,O=C([O-])CCC[C@H](O)/C=C\C=C\C=C\[C@H](O)C/C=C\CCCCC(O)(O)O,CE3554_c,CHEBI:133434,27
+Hypochlorous acid,OCl,CE4633_c,CHEBI:24757,2
+"2E,7Z,10Z,13Z,16Z-docosapentaenoyl-CoA",CCCCC/C=C\C/C=C\C/C=C\C/C=C\CCC/C=C/C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)([O-])OP(=O)([O-])OC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1OP(=O)([O-])[O-],CE4835_c,CHEBI:76416,71
+N-acetyl-leukotriene E4,CCCCC/C=C\C/C=C\C=C\C=C\[C@@H](SCC(NC(C)=O)C(=O)O)[C@@H](O)CCCC(=O)O,CE4936_c,CHEBI:7210,33
+Isovalerylglycine,CC(C)CC(=O)NCC(=O)[O-],CE4968_c,CHEBI:133611,11
+Isobutyrylglycine,CC(C)C(=O)NCC(=O)[O-],CE4969_c,CHEBI:133610,10
+2-methylbutyrylglycine,CCC(C)C(=O)NCC(=O)O,CE4970_c,CHEBI:86366,11
+"10,11-dihydro-leukotriene B4",CCCCC/C=C\C[C@@H](O)CC/C=C/C=C\[C@@H](O)CCCC(=O)[O-],CE4987_c,CHEBI:133324,24
+12-oxo-leukotriene B4,CCCCC/C=C\CC(=O)/C=C/C=C/C=C\[C@@H](O)CCCC(=O)[O-],CE4990_c,CHEBI:133309,24
+"10,11-dihydro-12R-hydroxy-leukotriene C4",CCCCC/C=C\C[C@@H](O)C/C=C/C=C/[C@@H](SC[C@H](NC(=O)CC[C@H]([NH3+])C(=O)[O-])C(=O)NCC(=O)[O-])[C@@H](O)CCCC(=O)[O-],CE4993_c,CHEBI:133441,44
+(2R)-pristanoyl-CoA,CC(C)CCCC(C)CCCC(C)CCC[C@@H](C)C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)([O-])OP(=O)([O-])OC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1OP(=O)([O-])[O-],CE5126_c,CHEBI:77275,68
+12-oxo-20-hydroxy-leukotriene B4,O=C([O-])CCC[C@H](O)/C=C\C=C\C=C\C(=O)C/C=C\CCCCCO,CE5138_c,CHEBI:133346,25
+"12,20-dioxo-leukotriene B4",O=CCCCC/C=C\CC(=O)/C=C/C=C/C=C\[C@@H](O)CCCC(=O)[O-],CE5141_c,CHEBI:133436,25
+11-cis-eicosenoyl-CoA,CCCCCCCC/C=C\CCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)([O-])OP(=O)([O-])OC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1OP(=O)([O-])[O-],CE5151_c,CHEBI:74069,69
+"Estrone-3,4-quinone",C[C@]12CC[C@@H]3C4=C(CC[C@H]3[C@@H]1CCC2=O)C(=O)C(=O)C=C4,CE5251_c,CHEBI:87263,21
+"Estrone-2,3-quinone",C[C@]12CC[C@@H]3C4=CC(=O)C(=O)C=C4CC[C@H]3[C@@H]1CCC2=O,CE5252_c,CHEBI:87262,21
+Dopamine o-quinone,NCCC1=CC(=O)C(=O)C=C1,CE5276_c,CHEBI:74684,11
+15-deoxy-PGD2,CCCCC/C=C/C=C1/C=C[C@H](O)[C@@H]1C/C=C\CCCC(=O)O,CE5304_c,CHEBI:63999,23
+(R)-2-hydroxy-4-methylpentanoate,CC(C)C[C@@H](O)C(=O)O,CE5456_c,CHEBI:55534,9
+12-oxo-c-LTB3,CCCCC/C=C\CC(=O)C/C=C/C=C/[C@@H](SC[C@H](NC(=O)CC[C@H]([NH3+])C(=O)[O-])C(=O)NCC(=O)[O-])[C@@H](O)CCCC(=O)[O-],CE5531_c,CHEBI:133440,44
+"N-[(E)-4-ammoniobutylidene]propane-1,3-diaminium",NCCC/C=N/CCCN,CE5586_c,CHEBI:48007,10
+Peroxynitrite,O=NO[O-],CE5643_c,CHEBI:25941,4
+Lipoyl-AMP(1-),Nc1ncnc2c1ncn2[C@@H]1O[C@H](COP(=O)(O)OC(=O)CCCCC2CCSS2)[C@@H](O)[C@H]1O,CE5656_c,CHEBI:55451,34
+15-oxo-lipoxin A4,CCCCCC(=O)/C=C/C=C\C=C\C=C\[C@@H](O)[C@@H](O)CCCC(=O)O,CE5661_c,CHEBI:63992,25
+"13,14-dihydro-15-oxo-lipoxin A4",CCCCCC(=O)CC/C=C\C=C\C=C\[C@@H](O)[C@@H](O)CCCC(=O)O,CE5662_c,CHEBI:63993,25
+Leukoaminochrome,Oc1cc2c(cc1O)NCC2,CE5665_c,CHEBI:74683,11
+Prostaglandin PGE2 1-glyceryl ester,CCCCC[C@H](O)/C=C/[C@H]1[C@H](O)CC(=O)[C@@H]1C/C=C\CCCC(=O)OCC(O)CO,CE5726_c,CHEBI:90230,30
+N-retinylidene-N-retinylethanolamine,CC1=C(/C=C/C(C)=C/C=C/C(C)=C/c2cc(/C=C/C=C(C)/C=C/C3=C(C)CCCC3(C)C)cc[n+]2CCO)C(C)(C)CCC1,CE5747_c,CHEBI:71980,44
+13'-hydroxy-alpha-tocopherol,Cc1c(C)c2c(c(C)c1O)CC[C@@](C)(CCC[C@H](C)CCC[C@H](C)CCCC(C)CO)O2,CE5842_c,CHEBI:84962,32
+L-leucyl-L-serine,CC(C)C[C@H](N)C(=O)N[C@@H](CO)C(=O)O,CE5865_c,CHEBI:73523,15
+Lysyl-proline,NCCCC[C@H](N)C(=O)N1CCC[C@H]1C(=O)O,CE5869_c,CHEBI:74567,17
+"10,11-dihydro-20-dihydroxy-LTB4",O=C([O-])CCC[C@H](O)/C=C\C=C\CC[C@H](O)C/C=C\CCCCC(O)O,CE5945_c,CHEBI:133322,26
+"10,11-dihydro-20-trihydroxy-leukotriene B4",O=C([O-])CCC[C@H](O)/C=C\C=C\CC[C@H](O)C/C=C\CCCCC(O)(O)O,CE5946_c,CHEBI:133323,27
+Nitrosoperoxycarbonate,O=NOOC(=O)[O-],CE6000_c,CHEBI:62726,7
+Prostaglandin G1,CCCCC[C@@H](/C=C/[C@@H]1[C@@H](CCCCCCC(=O)[O-])[C@@H]2C[C@H]1OO2)OO,CE6232_c,CHEBI:133084,26
+Prostaglandin H1,CCCCC[C@H](O)/C=C/[C@@H]1[C@@H](CCCCCCC(=O)[O-])[C@@H]2C[C@H]1OO2,CE6234_c,CHEBI:90793,25
+"12,20-DiHETE",O=C([O-])CCC/C=C\C/C=C\C=C\C(O)C/C=C\CCCCCO,CE6251_c,CHEBI:90719,24
+15(R)-HEPE,CC/C=C\C[C@@H](O)/C=C/C=C\C/C=C\C/C=C\CCCC(=O)[O-],CE7081_c,CHEBI:90819,23
+15(S)-HEPE,CC/C=C\C[C@H](O)/C=C/C=C\C/C=C\C/C=C\CCCC(=O)[O-],CE7082_c,CHEBI:132087,23
+Leukotriene B5,CC/C=C\C/C=C\C[C@@H](O)/C=C/C=C/C=C\[C@@H](O)CCCC(=O)[O-],CE7083_c,CHEBI:133302,24
+PGH3,CC/C=C\C[C@H](O)/C=C/[C@@H]1[C@@H](C/C=C\CCCC(=O)[O-])[C@@H]2C[C@H]1OO2,CE7088_c,CHEBI:133134,25
+18R-HEPE,CC[C@H](O)/C=C/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)[O-],CE7090_c,CHEBI:132083,23
+"5,15-DiHETE",CCCCCC(O)/C=C/C=C\C/C=C\C=C\C(O)CCCC(=O)O,CE7096_c,CHEBI:72867,24
+"Dibenzo[a,l]pyrene",c1ccc2c(c1)cc1ccc3cccc4c5ccccc5c2c1c34,CN0016_c,CHEBI:35861,24
+"7,12-Dimethylbenz[a]anthracene",Cc1c2ccccc2c(C)c2c1ccc1ccccc12,CN0020_c,CHEBI:254496,20
+Dipicolinate C7H3NO4,O=C([O-])c1cccc(C(=O)[O-])n1,DPA_c,CHEBI:36167,12
+Chitobiose,CC(=O)N[C@H]1[C@H](O[C@H]2[C@H](O)[C@@H](NC(C)=O)C(O)O[C@@H]2CO)O[C@H](CO)[C@@H](O)[C@@H]1O,HC00822_e,CHEBI:28681,29
+Oxalatosuccinate(3-),O=C([O-])CC(C(=O)[O-])C(=O)C(=O)[O-],HC01434_c,CHEBI:58931,13
+Gamma-Glutamyl-beta-cyanoalanine,N#CC[C@H](NC(=O)CC[C@H](N)C(=O)O)C(=O)O,HC01577_e,CHEBI:10565,17
+"2,5-Diaminopyrimidine nucleoside triphosphate",Nc1nc(N[C@@H]2O[C@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]2O)c(N)c(=O)[nH]1,HC01652_c,CHEBI:929,31
+Phosphodimethylethanolamine,CN(C)CCOP(=O)(O)O,HC01842_c,CHEBI:31997,10
+Glycolithocholate,C[C@H](CCC(=O)NCC(=O)O)[C@H]1CC[C@H]2[C@@H]3CC[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C,HC02193_c,CHEBI:37998,31
+Ursodeoxycholate,C[C@H](CCC(=O)[O-])[C@H]1CC[C@H]2[C@@H]3[C@@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C,HC02194_c,CHEBI:78604,28
+Tauroursodeoxycholate,C[C@H](CCC(=O)NCCS(=O)(=O)[O-])[C@H]1CC[C@H]2[C@@H]3[C@@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C,HC02195_c,CHEBI:132028,34
+Glycoursodeoxycholate,C[C@H](CCC(=O)NCC(=O)[O-])[C@H]1CC[C@H]2[C@@H]3[C@@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C,HC02196_c,CHEBI:132030,32
+Prostaglandin A2,CCCCC[C@H](O)/C=C/[C@H]1C=CC(=O)[C@@H]1C/C=C\CCCC(=O)[O-],HC02203_c,CHEBI:133370,24
+Prostaglandin-b2,CCCCC[C@H](O)/C=C/C1=C(C/C=C\CCCC(=O)[O-])C(=O)CC1,HC02205_c,CHEBI:133391,24
+Prostaglandin-c2,CCCCC[C@H](O)/C=C/C1=CCC(=O)[C@@H]1C/C=C\CCCC(=O)[O-],HC02207_c,CHEBI:133392,24
+Prostaglandin-d3,CC/C=C\C[C@H](O)/C=C/[C@H]1C(=O)C[C@H](O)[C@@H]1C/C=C\CCCC(=O)[O-],HC02210_c,CHEBI:132149,25
+Prostaglandin E3,CC/C=C\C[C@H](O)/C=C/[C@H]1[C@H](O)CC(=O)[C@@H]1C/C=C\CCCC(=O)[O-],HC02213_c,CHEBI:133132,25
+L Serylglycine C5H10N2O4,N[C@@H](CO)C(=O)NCC(=O)O,L_sergly_c,CHEBI:74814,11
+Thr Gly C6H12N2O4,C[C@@H](O)[C@H](N)C(=O)NCC(=O)O,L_thrgly_c,CHEBI:74859,12
+L-alanine-D-glutamate,C[C@H]([NH3+])C(=O)N[C@H](CCC(=O)[O-])C(=O)[O-],LalaDglu_c,CHEBI:61395,15
+N pai  Methyl L histidine C7H11N3O2,Cn1cnc(CC([NH3+])C(=O)[O-])c1,NPmehis_c,CHEBI:133608,12
+Phosphatidylinositol mannoside di-mannose (tuberculosis),CCCCCCCCCCCCCCCC(=O)OCC(COP(=O)(O)O[C@@H]1[C@H](O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@H](O)[C@H]1O[C@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]1O)OC(=O)CCCCCCCCC(C)CCCCCCCC,PIM2_c,CHEBI:68562,80
+Phosphatidylinositol mannoside hexa-mannose (tuberculosis),CCCCCCCCCCCCCCCC(=O)OCC(COP(=O)(O)O[C@@H]1[C@H](O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@H](O)[C@H]1O[C@H]1O[C@H](CO[C@H]2O[C@H](CO[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)[C@@H](O)[C@H](O)[C@@H]2O)[C@@H](O)[C@H](O)[C@@H]1O)OC(=O)CCCCCCCC(C)CCCCCCCCCC,PIM6_c,CHEBI:59636,125
+(R)-3-Hydroxydodecanoyl-CoA,CCCCCCCCC[C@@H](O)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)([O-])OP(=O)([O-])OC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1OP(=O)([O-])[O-],R_3hddcoa_c,CHEBI:74276,62
+(R)-3-hydroxytetradecanoyl-coa,CCCCCCCCCCC[C@@H](O)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)([O-])OP(=O)([O-])OC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1OP(=O)([O-])[O-],R_3hmrscoa_c,CHEBI:74277,64
+(R)-(homo)2citrate,O=C(O)CCC[C@@](O)(CC(=O)O)C(=O)O,Rh2cit_c,CHEBI:72694,15
+(R)-(homo)3citrate,O=C(O)CCCC[C@@](O)(CC(=O)O)C(=O)O,Rh3cit_c,CHEBI:72698,16
+Acetoacetate,C=C(O)CC(=O)O,acac_c,CHEBI:131367,7
+N-Acetyl-D-galactosamine 1-phosphate,CC(=O)N[C@H]1[C@@H](OP(=O)(O)O)O[C@H](CO)[C@H](O)[C@@H]1O,acgal1p_c,CHEBI:44313,19
+N-Acetyl-D-glucosamine 1-phosphate,CC(=O)N[C@H]1C(OP(=O)(O)O)O[C@H](CO)[C@@H](O)[C@@H]1O,acgam1p_c,CHEBI:7125,19
+6-(N-acetyl-alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol(1-),*C(=O)OC[C@H](COP(=O)(O)O[C@@H]1[C@H](O)[C@H](O)[C@@H](O)[C@H](O)[C@H]1O[C@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1NC(C)=O)OC(*)=O,acgpail_cho_c,CHEBI:12194,39
+N-Acetyl-D-muramoyl-L-alanine,CC(=O)N[C@H]1C(O)O[C@H](CO)[C@@H](O)[C@@H]1O[C@H](C)C(=O)N[C@@H](C)C(=O)[O-],acmama_c,CHEBI:83941,25
+N-acetylmuramate 6-phosphate,CC(=O)N[C@H]1C(O)O[C@H](COP(=O)(O)O)[C@@H](O)[C@@H]1O[C@H](C)C(=O)O,acmum6p_c,CHEBI:47968,24
+N-Acetylmuramate,CC(=O)N[C@H]1C(O)O[C@H](CO)[C@@H](O)[C@@H]1O[C@H](C)C(=O)O,acmum_e,CHEBI:21615,20
+VI3NeuAc-nLc6Cer,*C(=O)N[C@@H](CO[C@@H]1O[C@H](CO)[C@@H](O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O[C@@H]3O[C@H](CO)[C@@H](O[C@@H]4O[C@H](CO)[C@H](O)[C@H](O[C@@H]5O[C@H](CO)[C@@H](O[C@@H]6O[C@H](CO)[C@H](O)[C@H](O[C@]7(C(=O)O)C[C@H](O)[C@@H](NC(C)=O)[C@H]([C@H](O)[C@H](O)CO)O7)[C@H]6O)[C@H](O)[C@H]5NC(C)=O)[C@H]4O)[C@H](O)[C@H]3NC(C)=O)[C@H]2O)[C@H](O)[C@H]1O)[C@H](O)/C=C/CCCCCCCCCCCCC,acngalacglcgal14acglcgalgluside_cho_c,CHEBI:61850,115
+Acetyl phosphate,CC(=O)OP(=O)([O-])O,actp_c,CHEBI:13711,8
+Adenosyl-cobyric acid,CC1=C2N3[C@H]([C@H](CC(N)=O)[C@@]2(C)CCC(=O)O)[C@]2(C)[N+]4=C(C(C)=C5[N+]6=C(C=C7[N+](=C1[C@@H](CCC(N)=O)C7(C)C)[Co-2]364C[C@H]1O[C@@H](n3cnc4c(N)ncnc43)[C@H](O)[C@@H]1O)[C@@H](CCC(N)=O)[C@]5(C)CC(N)=O)[C@@H](CCC(N)=O)[C@]2(C)CC(N)=O,adcobhex_c,CHEBI:2483,82
+Adenosyl cobinamide phosphate,CC1=C2N3[C@H]([C@H](CC(N)=O)[C@@]2(C)CCC(=O)NC[C@@H](C)OP(=O)(O)O)[C@]2(C)[N+]4=C(C(C)=C5[N+]6=C(C=C7[N+](=C1[C@@H](CCC(N)=O)C7(C)C)[Co-2]364C[C@H]1O[C@@H](n3cnc4c(N)ncnc43)[C@H](O)[C@@H]1O)[C@@H](CCC(N)=O)[C@]5(C)CC(N)=O)[C@@H](CCC(N)=O)[C@]2(C)CC(N)=O,adocbip_c,CHEBI:2481,90
+Adenosine-GDP-cobinamide,CC1=C2N3[C@H]([C@H](CC(N)=O)[C@@]2(C)CCC(=O)NC[C@@H](C)OP(=O)(O)OP(=O)(O)OC[C@H]2O[C@@H](n4cnc5c(=O)[nH]c(N)nc54)[C@H](O)[C@@H]2O)[C@]2(C)[N+]4=C(C(C)=C5[N+]6=C(C=C7[N+](=C1[C@@H](CCC(N)=O)C7(C)C)[Co-2]364C[C@H]1O[C@@H](n3cnc4c(N)ncnc43)[C@H](O)[C@@H]1O)[C@@H](CCC(N)=O)[C@]5(C)CC(N)=O)[C@@H](CCC(N)=O)[C@]2(C)CC(N)=O,agdpcbi_c,CHEBI:2479,113
+Adenosylhopane,CC(CC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1O)C1CC[C@]2(C)[C@H]3CC[C@@H]4[C@@]5(C)CCCC(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC[C@@H]12,ahop_c,CHEBI:86403,48
+Ala Asn C7H13N3O4,C[C@H](N)C(=O)N[C@@H](CC(N)=O)C(=O)O,ala_L_asn__L_c,CHEBI:73330,14
+Ala L asp L C7H11N2O5,C[C@H](N)C(=O)N[C@@H](CC(=O)O)C(=O)O,ala_L_asp__L_c,CHEBI:73803,14
+Ala Ile C9H18N2O3,CC[C@H](C)[C@H](NC(=O)[C@H](C)N)C(=O)O,ala_L_ile__L_c,CHEBI:73805,14
+Ala Met C8H16N2O3S,CSCC[C@H](NC(=O)[C@H](C)N)C(=O)O,ala_L_met__L_c,CHEBI:73806,14
+Ala Phe C12H16N2O3,C[C@H](N)C(=O)N[C@@H](Cc1ccccc1)C(=O)O,ala_L_phe__L_c,CHEBI:73807,17
+Ala Ser C6H12N2O4,C[C@H](N)C(=O)N[C@@H](CO)C(=O)O,ala_L_ser__L_c,CHEBI:73394,12
+Ala Trp C14H17N3O3,C[C@H](N)C(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O,ala_L_trp__L_c,CHEBI:73808,20
+Ala Tyr C12H16N2O4,C[C@H](N)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O,ala_L_tyr__L_c,CHEBI:73395,18
+Ala Val C8H16N2O3,CC(C)[C@H](NC(=O)[C@H](C)N)C(=O)O,ala_L_val__L_c,CHEBI:73809,13
+D-Allose,OC[C@H]1OC(O)[C@H](O)[C@H](O)[C@@H]1O,all__D_c,CHEBI:4093,12
+Allulose 6-phosphate,O=C(CO)[C@H](O)[C@H](O)[C@H](O)COP(=O)([O-])[O-],allul6p_c,CHEBI:61519,16
+D Arabinose C5H10O5,OC1OC[C@@H](O)[C@@H](O)[C@@H]1O,arab__D_c,CHEBI:46994,10
+L-Arabinose,O=C[C@H](O)[C@@H](O)[C@@H](O)CO,arab__L_c,CHEBI:6182,10
+Arbutin 6-phosphate,O=P(O)(O)OC[C@H]1O[C@@H](Oc2ccc(O)cc2)[C@H](O)[C@@H](O)[C@@H]1O,arbt6p_c,CHEBI:2807,23
+L-ascorbate-6-phosphate,O=C1O[C@H]([C@@H](O)COP(=O)([O-])[O-])C([O-])=C1O,ascb6p_c,CHEBI:61698,16
+L-Aspartate 4-semialdehyde,N[C@@H](CC=O)C(=O)[O-],aspsa_c,CHEBI:13086,8
+Adenosine thiamine triphosphate,Cc1ncc(C[n+]2csc(CCOP(=O)([O-])OP(=O)([O-])OP(=O)([O-])OC[C@H]3O[C@@H](n4cnc5c(N)ncnc54)[C@H](O)[C@@H]3O)c2C)c(N)n1,athtp_c,CHEBI:71393,48
+Gamma-butyrobetainyl-CoA,CC(C)(COP(=O)([O-])OP(=O)([O-])OC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1OP(=O)([O-])[O-])[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)CCC[N+](C)(C)C,bbtcoa_c,CHEBI:61513,57
+Beta-Cryptoxanthin,CC1=C(/C=C/C(C)=C/C=C/C(C)=C/C=C/C=C(C)/C=C/C=C(C)/C=C/C2=C(C)C[C@@H](O)CC2(C)C)C(C)(C)CCC1,bcryptox_c,CHEBI:10362,41
+(R)-3-Hydroxybutanoate,C[C@@H](O)CC(=O)[O-],bhb_c,CHEBI:10983,7
+Bimane,Cc1c(C)n2c(C)c(C)c(=O)n2c1=O,bmn_c,CHEBI:62828,14
+D-biotin d-sulfoxide,O=C([O-])CCCC[C@H]1[C@H]2NC(=O)N[C@H]2CS1=O,btnso_c,CHEBI:62046,17
+"Cis-1,2-Dihydroxycyclohexa-3,5-diene-1-carboxylate",O=C(O)[C@@]1(O)C=CC=C[C@@H]1O,bz12diol_c,CHEBI:37888,11
+Benzylsuccinyl-CoA,CC(C)(COP(=O)(O)OP(=O)(O)OC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1OP(=O)(O)O)[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[C@@H](CC(=O)O)Cc1ccccc1,bzsuccoa_c,CHEBI:10970,62
+Butyryl carnitine,CCCC(=O)O[C@H](CC(=O)[O-])C[N+](C)(C)C,c4crn_c,CHEBI:21949,16
+Succinyl carnitine,C[N+](C)(C)CC(CC(=O)[O-])OC(=O)CCC(=O)O,c4dc_c,CHEBI:73034,18
+Octanoyl carnitine,CCCCCCCC(=O)OC(CC(=O)[O-])C[N+](C)(C)C,c8crn_c,CHEBI:73039,20
+N-Carbamoyl-beta-alanine,NC(=O)NCCC(=O)[O-],cala_c,CHEBI:11892,9
+(-)-trans-carveol,C=C(C)C1CC=C(C)C(O)C1,carveol_c,CHEBI:23046,11
+Carbamate,NC(=O)[O-],cbm_c,CHEBI:13941,4
+7-deaza-7-carboxyguanine,Nc1nc2[nH]cc(C(=O)[O-])c2c(=O)[nH]1,cdg_c,CHEBI:61036,14
+Cyclic de-hypoxanthine futalosine,O=C(O)c1ccc2c(c1)C(=O)CC[C@@]21OC(O)[C@H](O)[C@@H]1O,cdhxfut_c,CHEBI:64252,21
+CDP-Inositol,Nc1ccn([C@@H]2O[C@H](COP(=O)(O)OP(=O)(O)O[C@@H]3[C@@H](O)[C@H](O)[C@@H](O)[C@H](O)[C@@H]3O)[C@@H](O)[C@H]2O)c(=O)n1,cdp_inost_c,CHEBI:62566,36
+"CDP-1,2-dioctadecanoylglycerol",CCCCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OP(=O)(O)OC[C@H]1O[C@@H](n2ccc(N)nc2=O)[C@H](O)[C@@H]1O)OC(=O)CCCCCCCCCCCCCCCCC,cdpdodecg_c,CHEBI:104121,68
+"CDP-1,2-ditetradec-7-enoylglycerol",CCCCCCC=CCCCCCC(=O)OC[C@H](COP(=O)(O)OP(=O)(O)OC[C@H]1O[C@@H](n2ccc(N)nc2=O)[C@H](O)[C@@H]1O)OC(=O)CCCCCC=CCCCCCC,cdpdtdec7eg_c,CHEBI:103990,60
+"CDP-1,2-ditetradecanoylglycerol",CCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OP(=O)(O)OC[C@H]1O[C@@H](n2ccc(N)nc2=O)[C@H](O)[C@@H]1O)OC(=O)CCCCCCCCCCCCC,cdpdtdecg_c,CHEBI:103211,60
+CDPglycerol C12H19N3O13P2,Nc1ccn([C@@H]2O[C@H](COP(=O)(O)OP(=O)(O)OC[C@H](O)CO)[C@@H](O)[C@H]2O)c(=O)n1,cdpglyc_c,CHEBI:132202,30
+"Cis-3-(3-carboxyethyl)-3,5-cyclohexadiene-1,2-diol",O=C(O)CCC1=CC=C[C@@H](O)[C@H]1O,cechddd_c,CHEBI:48690,13
+Cellobiose 6 phosphate C12H21O14P,O=P(O)(O)OC[C@H]1O[C@@H](O[C@H]2[C@H](O)[C@@H](O)[C@H](O)O[C@@H]2CO)[C@H](O)[C@@H](O)[C@@H]1O,cellb6p_c,CHEBI:2233,27
+"Cis-3-(3-carboxyethenyl)-3,5-cyclohexadiene-1,2-diol",O=C(O)C=CC1=CC=C[C@H](O)[C@@H]1O,cenchddd_c,CHEBI:49071,13
+Chitobiose-6-phosphate,CC(=O)N[C@H]1[C@H](O[C@H]2[C@H](O)[C@@H](NC(C)=O)C(O)O[C@@H]2CO)O[C@H](COP(=O)([O-])[O-])[C@@H](O)[C@@H]1O,chit6p_c,CHEBI:64883,33
+Chitobiose C16H28N2O11,CC(=O)N[C@H]1[C@H](O[C@H]2[C@H](O)[C@@H](NC(C)=O)C(O)O[C@@H]2CO)O[C@H](CO)[C@@H](O)[C@@H]1O,chitob_c,CHEBI:28681,29
+Diacetylchitobiose-6-phosphate,CC(=O)N[C@H]1[C@H](O[C@H]2[C@H](O)[C@@H](NC(C)=O)C(O)O[C@@H]2CO)O[C@H](COP(=O)([O-])[O-])[C@@H](O)[C@@H]1O,chtbs6p_c,CHEBI:64883,33
+Citrate,O=C([O-])CC([O-])(CC(=O)[O-])C(=O)[O-],cit_c,CHEBI:132362,13
+Citramalate,CC(O)(CC(=O)[O-])C(=O)[O-],citm_c,CHEBI:13997,10
+"Cardiolipin (tetratetradecanoyl, n-C14:0)",CCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OCC(O)COP(=O)(O)OC[C@@H](COC(=O)CCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCC,clpn140_c,CHEBI:62862,84
+"Cardiolipin (tetrahexadecanoyl, n-C16:0)",CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OCC(O)COP(=O)(O)OC[C@@H](COC(=O)CCCCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCCCC,clpn160_c,CHEBI:104586,92
+"Cardiolipin (tetraoctadec-11-enoyl, n-C18:1)",CCCCCCC=CCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OCC(O)COP(=O)(O)OC[C@@H](COC(=O)CCCCCCCCCC=CCCCCCC)OC(=O)CCCCCCCCCC=CCCCCCC)OC(=O)CCCCCCCCCC=CCCCCCC,clpn181_c,CHEBI:105685,100
+Cobyrinate,C/C1=C2/N([Co+])[C@H]([C@H](CC(=O)O)[C@@]2(C)CCC(=O)O)[C@]2(C)N=C(/C(C)=C3\N=C(/C=C4\N=C1[C@@H](CCC(=O)O)C4(C)C)[C@@H](CCC(=O)O)[C@]3(C)CC(=O)O)[C@@H](CCC(=O)O)[C@]2(C)CC(=O)O,cobya_c,CHEBI:52499,64
+Cobalt-dihydro-precorrin 6,C[C@]1(CC(=O)O)C(CCC(=O)O)=C2C[C@@]3(C)C(CC(=O)O)=C(CCC(=O)O)C4=[N+]3[Co-2]35N6C(=CC1=[N+]23)[C@@H](CCC(=O)O)[C@](C)(CC(=O)O)[C@]6(C)[C@H]1[C@H](CC(=O)O)[C@@](C)(CCC(=O)O)C(=[N+]15)C4,codhpre6_c,CHEBI:3789,65
+Cobalt-precorrin-5a,CC1OC(=O)C[C@@]2(C)[C@H](CCC(=O)O)C3=CC4=[N+]5C(=C(CCC(=O)O)[C@]4(C)CC(=O)O)C[C@@]4(C)C(CC(=O)O)=C(CCC(=O)O)C6=CC7=[N+]8C(=C(CC(=O)O)[C@@]7(C)CCC(=O)O)C12N3[Co-2]58N64,codscl5a_c,CHEBI:52488,66
+Cobalt-precorrin-5b,C[C@]1(CC(=O)O)C(CCC(=O)O)=C2C[C@@]3(C)C(CC(=O)O)=C(CCC(=O)O)C4=CC5=[N+]6C(=C7N8C(=CC1=[N+]2[Co-2]86N43)[C@@H](CCC(=O)O)[C@]7(C)CC(=O)O)[C@H](CC(=O)O)[C@@]5(C)CCC(=O)O,codscl5b_c,CHEBI:52489,64
+Cobalt-precorrin-7,CC1=C(CCC(=O)O)C2=[N+]3[C@@]1(C)CC1=C(CCC(=O)O)[C@](C)(CC(=O)O)C4=[N+]1[Co-2]31N3C(=C4)[C@@H](CCC(=O)O)[C@](C)(CC(=O)O)[C@]3(C)[C@H]3[C@H](CC(=O)O)[C@@](C)(CCC(=O)O)C(=[N+]31)C2C,codscl7_c,CHEBI:52490,63
+Cobalt-precorrin-8x,CC1=C2[C@@H](CCC(=O)O)[C@](C)(CC(=O)O)[C@]3(C)[C@H]4[C@H](CC(=O)O)[C@@](C)(CCC(=O)O)C5=[N+]4[Co-3]4(N23)[N+]2=C1[C@@](C)(CC(=O)O)C(CCC(=O)O)=C2C[C@@]1(C)C(C)=C(CCC(=O)O)C(=[N+]14)C5C,codscl8x_c,CHEBI:3795,64
+Cobalt-precorrin-2,C[C@@]1(CC(=O)O)C2=CC3=[N+]4C(=Cc5c(CC(=O)O)c(CCC(=O)O)c6n5[Co-2]45N2C(=CC2=[N+]5C(=C(CCC(=O)O)C2CC(=O)O)C6)[C@H]1CCC(=O)O)[C@@](C)(CC(=O)O)[C@@H]3CCC(=O)O,copre2_c,CHEBI:3790,63
+Cobalt-precorrin 3,CC1=C2[N+]3=C(C=C4N5C(=CC6=[N+]7C(=C(CCC(=O)O)C6CC(=O)O)Cc6c(CCC(=O)O)c(CC(=O)O)c1n6[Co-2]573)[C@@H](CCC(=O)O)[C@]4(C)CC(=O)O)[C@@H](CCC(=O)O)[C@]2(C)CC(=O)O,copre3_c,CHEBI:3791,64
+Cobalt-precorrin 4,CC1OC(=O)C[C@@]2(C)[C@H](CCC(=O)O)C3=CC4=[N+]5C(=Cc6c(CC(=O)O)c(CCC(=O)O)c7n6[Co-2]56N3C12C1=C(CC(=O)O)[C@@](C)(CCC(=O)O)C(=[N+]16)C7)[C@@H](CCC(=O)O)[C@]4(C)CC(=O)O,copre4_c,CHEBI:3792,65
+Cobalt-precorrin 8,CC1=C2[C@@H](CCC(=O)O)[C@](C)(CC(=O)O)[C@]3(C)[C@H]4[C@H](CC(=O)O)[C@@](C)(CCC(=O)O)C5=[N+]4[Co-3]4(N23)[N+]2=C1[C@@](C)(CC(=O)O)C(CCC(=O)O)=C2C[C@@]1(C)C(C)=C(CCC(=O)O)C(=[N+]14)C5C,copre8_c,CHEBI:3795,64
+"6-carboxy-5,6,7,8-tetrahydropterin",Nc1nc2c(c(=O)[nH]1)NC(C(=O)[O-])CN2,cph4_c,CHEBI:61032,15
+D-carnitinyl-CoA,CC(C)(COP(=O)([O-])OP(=O)([O-])OC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1OP(=O)([O-])[O-])[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)C[C@H](O)C[N+](C)(C)C,crnDcoa_c,CHEBI:62047,58
+D-Carnitine,C[N+](C)(C)C[C@@H](O)CC(=O)[O-],crn__D_c,CHEBI:11060,11
+L-Carnitinyl-CoA,CC(C)(COP(=O)([O-])OP(=O)(O)OC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1OP(=O)(O)O)[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)C[C@@H](O)C[N+](C)(C)C,crncoa_c,CHEBI:41482,58
+Carboxyspermidine,[NH3+]CCCC[NH2+]CC[C@H]([NH3+])C(=O)[O-],cspmd_c,CHEBI:65072,13
+Crotonobetaine,C[N+](C)(C)CC=CC(=O)[O-],ctbt_c,CHEBI:11946,10
+Crotonobetainyl-CoA,CC(C)(COP(=O)([O-])OP(=O)([O-])OC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1OP(=O)([O-])[O-])[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)/C=C/C[N+](C)(C)C,ctbtcoa_c,CHEBI:60933,57
+Trans-Dec-2-enoyl-CoA,CCCCCCC/C=C/C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1OP(=O)(O)O,dc2coa_c,CHEBI:10723,59
+Decanal C10H20O,CCCCCCCCCC=O,dcal_c,CHEBI:31457,11
+Debrisoquine c,N=C(N)N1CCc2ccccc2C1,debrisoquine_c,CHEBI:34665,13
+Decaprenylphosphoryl-beta-D-arabinofuranose,CC(C)=CCC/C(C)=C/CC/C(C)=C\CC/C(C)=C\CC/C(C)=C\CC/C(C)=C\CC/C(C)=C\CC/C(C)=C\CC/C(C)=C\CC/C(C)=C\COP(=O)([O-])O[C@@H]1O[C@H](CO)[C@@H](O)[C@@H]1O,decda_tb_c,CHEBI:65066,64
+Decaprenylphosphoryl-beta-D-5-phosphoribose,CC(C)=CCC/C(C)=C/CC/C(C)=C\CC/C(C)=C\CC/C(C)=C\CC/C(C)=C\CC/C(C)=C\CC/C(C)=C\CC/C(C)=C\CC/C(C)=C\COP(=O)([O-])O[C@@H]1O[C@H](COP(=O)([O-])[O-])[C@@H](O)[C@H]1O,decdpr_tb_c,CHEBI:66937,68
+Selenodiglutathione,N[C@@H](CCC(=O)N[C@@H](CS[Se]SC[C@H](NC(=O)CC[C@H](N)C(=O)O)C(=O)NCC(=O)O)C(=O)NCC(=O)O)C(=O)O,dgslnt_c,CHEBI:26634,41
+"Cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate",CC1=C[C@H](O)[C@@](O)(C(=O)O)C=C1,dh4mchc_c,CHEBI:49008,12
+"2,3-dihydroxicinnamic acid",O=C(O)/C=C/c1cccc(O)c1O,dhcinnm_c,CHEBI:32356,13
+Dihydroceramide,*C(=O)N[C@@H](CO)[C@H](O)CCCCCCCCCCCCCCC,dhcrm_cho_c,CHEBI:31488,23
+Dehydroglycine,N=CC(=O)O,dhgly_c,CHEBI:53647,5
+"1,2-Dihydroxy-5-(methylthio)pent-1-en-3-one",CSCCC(=O)/C(O)=C/O,dhmtp_c,CHEBI:49252,10
+"1,4-Dihydroxy-2-naphthoate",O=C([O-])c1cc(O)c2ccccc2c1O,dhna_c,CHEBI:11173,15
+"4,5-dihydroxy-2,3-pentanedione",CC(=O)C(=O)[C@@H](O)CO,dhptd_c,CHEBI:29484,9
+De-hypoxanthine futalosine,O=C(O)c1cccc(C(=O)CC[C@H]2OC(O)[C@H](O)[C@@H]2O)c1,dhxfut_c,CHEBI:51312,21
+Ala Ala C6H12N2O3,C[C@H](N)C(=O)N[C@@H](C)C(=O)O,diala__L_c,CHEBI:72816,11
+Djenkolate C7H14N2O4S2,N[C@@H](CSCSC[C@H](N)C(=O)O)C(=O)O,djenk_c,CHEBI:6211,15
+6-deoxy-5-ketofructose 1-phosphate,CC(=O)[C@@H](O)[C@H](O)C(=O)COP(=O)(O)O,dkfp_c,CHEBI:51284,15
+"2,3-diketo-5-methylthio-1-phosphopentane",CSCCC(=O)C(=O)COP(=O)(O)O,dkmpp_c,CHEBI:50604,14
+Demethylphylloquinone,C/C(=C\CC1=CC(=O)c2ccccc2C1=O)CCC[C@H](C)CCC[C@H](C)CCCC(C)C,dmtphllqne_c,CHEBI:31087,32
+Docosanoyl Coenzyme A,CCCCCCCCCCCCCCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)([O-])OP(=O)([O-])OC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1OP(=O)([O-])[O-],docoscoa_c,CHEBI:65059,71
+"2,3-O-phytanyl-sn-glycero-1-phosphoserine",CC(C)CCC[C@@H](C)CCC[C@@H](C)CCC[C@@H](C)CCOC[C@@H](COP(=O)([O-])OC[C@H]([NH3+])C(=O)[O-])OCC[C@H](C)CCC[C@H](C)CCC[C@H](C)CCCC(C)C,dpgps_c,CHEBI:74853,56
+Diploptene,C=C(C)[C@H]1CC[C@]2(C)[C@H]3CC[C@@H]4[C@@]5(C)CCCC(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC[C@@H]12,dptne_c,CHEBI:4648,30
+Deoxyribose C5H10O4,OC[C@H]1OC(O)C[C@@H]1O,drib_c,CHEBI:90761,9
+"DTDP-4-acetamido-4,6-dideoxy-D-galactose",CC(=O)N[C@@H]1[C@H](O)[C@@H](O)C(OP(=O)([O-])OP(=O)([O-])OC[C@H]2O[C@@H](n3cc(C)c(=O)[nH]c3=O)C[C@@H]2O)O[C@@H]1C,dtdp4aaddg_c,CHEBI:61562,38
+Echinenone,CC1=C(/C=C/C(C)=C/C=C/C(C)=C/C=C/C=C(C)/C=C/C=C(C)/C=C/C2=C(C)C(=O)CCC2(C)C)C(C)(C)CCC1,echin_c,CHEBI:4746,41
+Phosphoethanolamine KDO(2)-lipid (A),CCCCCCCCCCCCCC(=O)O[C@H](CCCCCCCCCCC)CC(=O)O[C@@H]1[C@@H](NC(=O)C[C@@H](CCCCCCCCCCC)OC(=O)CCCCCCCCCCC)[C@H](OC[C@H]2O[C@H](OP(=O)(O)O)[C@H](NC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H](OC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H]2O)O[C@H](CO[C@]2(C(=O)O)C[C@@H](O[C@]3(C(=O)O)C[C@@H](O)[C@@H](O)[C@@H]([C@@H](CO)OP(=O)(O)OCCN)O3)[C@@H](O)[C@@H]([C@H](O)CO)O2)[C@H]1OP(=O)(O)O,enlipa_e,CHEBI:47762,160
+Epimelibiose C12H22O11,OC[C@H]1O[C@H](OC[C@H]2O[C@H](O)[C@H](O)[C@@H](O)[C@H]2O)[C@@H](O)[C@@H](O)[C@@H]1O,epm_c,CHEBI:4808,23
+Ethanesulfonate C2H5O3S,CCS(=O)(=O)O,eths_c,CHEBI:42465,6
+Ethanesulfonate,CCS(=O)(=O)O,ethso3_c,CHEBI:42465,6
+Coenzyme F390 (adenosine),C[C@H](OP(=O)(O)OC[C@@H](O)[C@@H](O)[C@@H](O)Cn1c2nc(=O)[nH]c(=O)c-2cc2ccc(OP(=O)(O)OC[C@H]3O[C@@H](n4cnc5c(N)ncnc54)[C@H](O)[C@@H]3O)cc21)C(=O)N[C@@H](CCC(=O)N[C@@H](CCC(=O)O)C(=O)O)C(=O)O,f390a_c,CHEBI:62784,75
+Coenzyme F390 (guanosine),C[C@H](OP(=O)(O)OC[C@@H](O)[C@@H](O)[C@@H](O)Cn1c2nc(=O)[nH]c(=O)c-2cc2ccc(OP(=O)(O)OC[C@H]3O[C@@H](n4cnc5c(=O)[nH]c(N)nc54)[C@H](O)[C@@H]3O)cc21)C(=O)N[C@@H](CCC(=O)N[C@@H](CCC(=O)O)C(=O)O)C(=O)O,f390g_c,CHEBI:62786,76
+Coenzyme ferredoxin 420-0,C[C@H](OP(=O)([O-])OC[C@@H](O)[C@@H](O)[C@@H](O)Cn1c2nc(=O)[nH]c(=O)c-2cc2ccc(O)cc21)C(=O)[O-],f420_0_c,CHEBI:59531,35
+Coenzyme ferredoxin 420-1,C[C@H](OP(=O)(O)OC[C@@H](O)[C@@H](O)[C@@H](O)Cn1c2nc(=O)[nH]c(=O)c-2cc2ccc(O)cc21)C(=O)N[C@@H](CCC(=O)O)C(=O)O,f420_1_c,CHEBI:59536,44
+"D-Fructose 1,6-bisphosphate",O=P(O)(O)OC[C@H]1OC(O)(COP(=O)(O)O)[C@@H](O)[C@@H]1O,fdp_c,CHEBI:37736,20
+Ferrichrome,CC1=[O+][Fe-3]2345ON1CCC[C@@H]1NC(=O)CNC(=O)CNC(=O)CNC(=O)[C@H](CCCN(O2)C(C)=[O+]3)NC(=O)[C@H](CCCN(O4)C(C)=[O+]5)NC1=O,fecrm_c,CHEBI:5019,49
+Generic ferrioxamine-Fe-III,CC(=O)N1CCCCCNC(=O)CCC(=O)N2CCCCCNC(=O)CCC(=O)N(CCCCCN)O[Fe](O1)O2,feoxam_c,CHEBI:5044,40
+Ferrioxamine-E,O=C1CCC(=O)N2CCCCCNC(=O)CCC(=O)N3CCCCCNC(=O)CCC(=O)N(CCCCCN1)O[Fe](O2)O3,feroxE_c,CHEBI:60261,43
+Fructoselysine,N[C@@H](CCCCNCC(=O)[C@@H](O)[C@H](O)[C@H](O)CO)C(=O)O,frulys_c,CHEBI:24109,21
+L-Fucose,C[C@H](O)[C@@H](O)[C@@H](O)[C@H](O)C=O,fuc__L_c,CHEBI:48204,11
+(Gal)2 (GalNAc)1 (Glc)1 (GlcNAc)1 (LFuc)2 (Cer)1,*C(=O)N[C@@H](CO[C@@H]1O[C@H](CO)[C@@H](O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O[C@@H]3O[C@H](CO)[C@@H](O[C@@H]4O[C@@H](C)[C@@H](O)[C@@H](O)[C@@H]4O)[C@H](O[C@@H]4O[C@H](CO)[C@H](O)[C@H](O[C@H]5O[C@H](CO)[C@H](O)[C@H](O)[C@H]5NC(C)=O)[C@H]4O[C@@H]4O[C@@H](C)[C@@H](O)[C@@H](O)[C@@H]4O)[C@H]3NC(C)=O)[C@H]2O)[C@H](O)[C@H]1O)[C@H](O)/C=C/CCCCCCCCCCCCC,fucacgalfucgalacglcgalgluside_cho_c,CHEBI:62656,104
+"IV3-a-NeuAc,III3-a-Fuc-nLc4Cer",*C(=O)N[C@@H](CO[C@@H]1O[C@H](CO)[C@@H](O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O[C@@H]3O[C@H](CO)[C@@H](O[C@@H]4O[C@H](CO)[C@H](O)[C@H](O[C@]5(C(=O)O)C[C@H](O)[C@@H](NC(C)=O)[C@H]([C@H](O)[C@H](O)CO)O5)[C@H]4O)[C@H](O[C@@H]4O[C@@H](C)[C@@H](O)[C@@H](O)[C@@H]4O)[C@H]3NC(C)=O)[C@H]2O)[C@H](O)[C@H]1O)[C@H](O)/C=C/CCCCCCCCCCCCC,fucacngal14acglcgalgluside_cho_c,CHEBI:62374,100
+Ley glycolipid,*C(=O)N[C@@H](CO[C@@H]1O[C@H](CO)[C@@H](O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O[C@@H]3O[C@H](CO)[C@@H](O[C@@H]4O[C@H](CO)[C@H](O)[C@H](O)[C@H]4O[C@@H]4O[C@@H](C)[C@@H](O)[C@@H](O)[C@@H]4O)[C@H](O[C@@H]4O[C@@H](C)[C@@H](O)[C@@H](O)[C@@H]4O)[C@H]3NC(C)=O)[C@H]2O)[C@H](O)[C@H]1O)[C@H](O)/C=C/CCCCCCCCCCCCC,fucfuc12gal14acglcgalgluside_cho_c,CHEBI:62562,90
+Lacto-N-fucopentaosyl III ceramide,*C(=O)N[C@@H](CO[C@@H]1O[C@H](CO)[C@@H](O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O[C@@H]3O[C@H](CO)[C@@H](O[C@@H]4O[C@H](CO)[C@H](O)[C@H](O)[C@H]4O)[C@H](O[C@@H]4O[C@@H](C)[C@@H](O)[C@@H](O)[C@@H]4O)[C@H]3NC(C)=O)[C@H]2O)[C@H](O)[C@H]1O)[C@@H](*)O,fucgal14acglcgalgluside_cho_c,CHEBI:90379,65
+Futalosine,O=C(O)c1cccc(C(=O)CC[C@H]2O[C@@H](n3cnc4c(=O)[nH]cnc43)[C@H](O)[C@@H]2O)c1,fut_c,CHEBI:51310,30
+Glycerophosphoglycerol,O=P(O)(OCC(O)CO)OCC(O)CO,g3pg_c,CHEBI:5457,15
+Glycerophosphoserine,[NH3+][C@@H](COP(=O)([O-])OCC(O)CO)C(=O)[O-],g3ps_c,CHEBI:61931,16
+D-Galactonate,O=C([O-])[C@H](O)[C@@H](O)[C@@H](O)[C@H](O)CO,galctn__D_c,CHEBI:12931,13
+L-Galactonate,O=C(O)[C@@H](O)[C@H](O)[C@H](O)[C@@H](O)CO,galctn__L_c,CHEBI:37425,13
+(Gal)4 (Glc)1 (GlcNAc)2 (LFuc)1 (Cer)1,*C(=O)N[C@@H](CO[C@@H]1O[C@H](CO)[C@@H](O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O[C@@H]3O[C@H](CO)[C@@H](O[C@@H]4O[C@H](CO)[C@H](O)[C@H](O[C@@H]5O[C@H](CO)[C@@H](O[C@@H]6O[C@H](CO)[C@H](O)[C@H](O[C@H]7O[C@H](CO)[C@H](O)[C@H](O)[C@H]7O)[C@H]6O[C@@H]6O[C@@H](C)[C@@H](O)[C@@H](O)[C@@H]6O)[C@H](O)[C@H]5NC(C)=O)[C@H]4O)[C@H](O)[C@H]3NC(C)=O)[C@H]2O)[C@H](O)[C@H]1O)[C@H](O)/C=C/CCCCCCCCCCCCC,galfucgalacglcgal14acglcgalgluside_cho_c,CHEBI:90154,116
+Glycolaldehyde,O/C=C\O,gcald_c,CHEBI:131198,4
+GD1c,*C(=O)N[C@@H](CO[C@@H]1O[C@H](CO)[C@@H](O[C@@H]2O[C@H](CO)[C@H](O[C@@H]3O[C@H](CO)[C@H](O)[C@H](O[C@@H]4O[C@H](CO)[C@H](O)[C@H](O[C@]5(C(=O)[O-])C[C@H](O)[C@@H](NC(C)=O)[C@H]([C@H](O)[C@@H](CO)O[C@]6(C(=O)[O-])C[C@H](O)[C@@H](NC(C)=O)[C@H]([C@H](O)[C@H](O)CO)O6)O5)[C@H]4O)[C@H]3NC(C)=O)[C@H](O)[C@H]2O)[C@H](O)[C@H]1O)[C@H](O)/C=C/CCCCCCCCCCCCC,gd1c_cho_c,CHEBI:87787,110
+GDP-L-fucose,C[C@@H]1O[C@H](OP(=O)(O)OP(=O)(O)OC[C@H]2O[C@@H](n3cnc4c(=O)[nH]c(N)nc43)[C@H](O)[C@@H]2O)[C@@H](O)[C@H](O)[C@@H]1O,gdpfuc_c,CHEBI:13332,38
+Gamma-glutamyl-gamma aminobutyric acid,N[C@@H](CCC(=O)NCCCC(=O)O)C(=O)O,gg4abut_c,CHEBI:49260,16
+Gamma-glutamyl-gamma-butyraldehyde,[NH3+][C@@H](CCC(=O)NCCCC=O)C(=O)[O-],ggbutal_c,CHEBI:61508,15
+L-Glutamate 1-semialdehyde,N[C@H](C=O)CCC(=O)[O-],glu1sa_c,CHEBI:11022,9
+5 L Glutamyl L alanine C8H13N2O5,C[C@H](NC(=O)CC[C@H]([NH3+])C(=O)[O-])C(=O)[O-],gluala_c,CHEBI:133091,15
+Gly asp L C6H9N2O5,NCC(=O)N[C@@H](CC(=O)O)C(=O)O,gly_asp__L_c,CHEBI:73804,13
+Gly Cys C5H10N2O3S,NCC(=O)N[C@@H](CS)C(=O)O,gly_cys__L_c,CHEBI:73890,11
+Gly Leu C8H16N2O3,CC(C)C[C@H](NC(=O)CN)C(=O)O,gly_leu__L_c,CHEBI:73514,13
+Gly Met C7H14N2O3S,CSCC[C@H](NC(=O)CN)C(=O)O,gly_met__L_c,CHEBI:74120,13
+Gly Phe C11H14N2O3,[NH3+]CC(=O)N[C@@H](Cc1ccccc1)C(=O)[O-],gly_phe__L_c,CHEBI:133047,16
+Glycerol 1-phosphate,O=P(O)(O)OCC(O)CO,glyc1p_c,CHEBI:14336,10
+Glycylleucine,CC(C)C[C@H](NC(=O)CN)C(=O)O,glyleu_c,CHEBI:73514,13
+Glycylphenylalanine,[NH3+]CC(=O)N[C@@H](Cc1ccccc1)C(=O)[O-],glyphe_c,CHEBI:133047,16
+Glycylproline,NCC(=O)N1CCC[C@H]1C(=O)O,glypro_c,CHEBI:70744,12
+"D-Glycero-D-manno-heptose 1,7-bisphosphate",O=P(O)(O)OC[C@@H](O)[C@H]1OC(OP(=O)(O)O)[C@@H](O)[C@@H](O)[C@@H]1O,gmhep17bp_c,CHEBI:4188,22
+GP1c alpha,*C(=O)N[C@@H](CO[C@@H]1O[C@H](CO)[C@@H](O[C@@H]2O[C@H](CO)[C@H](O[C@@H]3O[C@H](CO[C@]4(C(=O)[O-])C[C@H](O)[C@@H](NC(C)=O)[C@H]([C@H](O)[C@H](O)CO)O4)[C@H](O)[C@H](O[C@@H]4O[C@H](CO)[C@H](O)[C@H](O[C@]5(C(=O)[O-])C[C@H](O)[C@@H](NC(C)=O)[C@H]([C@H](O)[C@H](O)CO)O5)[C@H]4O)[C@H]3NC(C)=O)[C@H](O[C@]3(C(=O)[O-])C[C@H](O)[C@@H](NC(C)=O)[C@H]([C@H](O)[C@@H](CO)O[C@]4(C(=O)[O-])C[C@H](O)[C@@H](NC(C)=O)[C@H]([C@H](O)[C@@H](CO)O[C@]5(C(=O)[O-])C[C@H](O)[C@@H](NC(C)=O)[C@H]([C@H](O)[C@H](O)CO)O5)O4)O3)[C@H]2O)[C@H](O)[C@H]1O)[C@H](O)/C=C/CCCCCCCCCCCCC,gp1calpha_cho_c,CHEBI:87802,170
+GQ1balpha,*C(=O)N[C@@H](CO[C@@H]1O[C@H](CO)[C@@H](O[C@@H]2O[C@H](CO)[C@H](O[C@@H]3O[C@H](CO[C@]4(C(=O)[O-])C[C@H](O)[C@@H](NC(C)=O)[C@H]([C@H](O)[C@H](O)CO)O4)[C@H](O)[C@H](O[C@@H]4O[C@H](CO)[C@H](O)[C@H](O[C@]5(C(=O)[O-])C[C@H](O)[C@@H](NC(C)=O)[C@H]([C@H](O)[C@H](O)CO)O5)[C@H]4O)[C@H]3NC(C)=O)[C@H](O[C@]3(C(=O)[O-])C[C@H](O)[C@@H](NC(C)=O)[C@H]([C@H](O)[C@@H](CO)O[C@]4(C(=O)[O-])C[C@H](O)[C@@H](NC(C)=O)[C@H]([C@H](O)[C@H](O)CO)O4)O3)[C@H]2O)[C@H](O)[C@H]1O)[C@H](O)/C=C/CCCCCCCCCCCCC,gq1balpha_cho_c,CHEBI:78572,150
+L-gulonate,O=C([O-])[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)CO,guln__L_c,CHEBI:13115,13
+Cis-(homo)2aconitate,O=C(O)/C=C(/CCCC(=O)O)C(=O)O,h2acon_C_c,CHEBI:72708,14
+"7,8-dihydromethanopterin",C[C@@H]1Nc2nc(N)[nH]c(=O)c2N=C1[C@@H](C)Nc1ccc(C[C@H](O)[C@H](O)[C@H](O)CO[C@H]2O[C@H](COP(=O)(O)O[C@@H](CCC(=O)O)C(=O)O)[C@@H](O)[C@H]2O)cc1,h2mpt_c,CHEBI:2251,53
+Cis-(homo)3aconitate,O=C(O)/C=C(/CCCCC(=O)O)C(=O)O,h3acon_C_c,CHEBI:72711,15
+Tetrahydrosarcinapterin,C[C@@H]1Nc2nc(N)[nH]c(=O)c2N[C@H]1[C@@H](C)Nc1ccc(C[C@H](O)[C@H](O)[C@H](O)CO[C@H]2O[C@H](COP(=O)(O)O[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)O)[C@@H](O)[C@H]2O)cc1,h4spt_c,CHEBI:59345,62
+Heptosyl-heptosyl-kdo2-lipidA,CCCCCCCCCCCCCC(=O)O[C@H](CCCCCCCCCCC)CC(=O)O[C@@H]1[C@@H](NC(=O)C[C@@H](CCCCCCCCCCC)OC(=O)CCCCCCCCCCC)[C@H](OC[C@H]2O[C@H](OP(=O)([O-])[O-])[C@H](NC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H](OC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H]2O)O[C@H](CO[C@]2(C(=O)[O-])C[C@@H](O[C@]3(C(=O)[O-])C[C@@H](O)[C@@H](O)[C@@H]([C@H](O)CO)O3)[C@@H](O[C@H]3O[C@H]([C@@H](O)CO)[C@@H](O)[C@H](O[C@H]4O[C@H]([C@@H](O)CO)[C@@H](O)[C@H](O)[C@@H]4O)[C@@H]3O)[C@@H]([C@H](O)CO)O2)[C@H]1OP(=O)([O-])[O-],hhlipa_c,CHEBI:61507,179
+2-Hydroxy-3-keto-5-methylthiopentenyl-1-phosphate,CSCCC(=O)C(O)=COP(=O)(O)O,hkmpp_c,CHEBI:50605,14
+2-hydroxy-6-ketononatrienedioate,O=C([O-])/C=C/C(=O)/C=C\C=C(\O)C(=O)[O-],hkntd_c,CHEBI:61450,15
+Heptosyl-kdo2-lipidA,CCCCCCCCCCCCCC(=O)O[C@H](CCCCCCCCCCC)CC(=O)O[C@@H]1[C@@H](NC(=O)C[C@@H](CCCCCCCCCCC)OC(=O)CCCCCCCCCCC)[C@H](OC[C@H]2O[C@H](OP(=O)([O-])[O-])[C@H](NC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H](OC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H]2O)O[C@H](CO[C@]2(C(=O)[O-])C[C@@H](O[C@]3(C(=O)[O-])C[C@@H](O)[C@@H](O)[C@@H]([C@H](O)CO)O3)[C@@H](O[C@H]3O[C@H]([C@@H](O)CO)[C@@H](O)[C@H](O)[C@@H]3O)[C@@H]([C@H](O)CO)O2)[C@H]1OP(=O)([O-])[O-],hlipa_c,CHEBI:61502,166
+4-hydroxy-5-methyl-3(2H)-furanone,CC1=C(O)C(=O)CO1,hmfurn_c,CHEBI:74456,8
+Heptanal C7H14O,CCCCCCC=O,hpal_c,CHEBI:34787,8
+Hexanal C6H12O,CCCCCC=O,hxal_c,CHEBI:88528,7
+S-2-(indol-3-yl)acetyl-CoA,CC(C)(COP(=O)(O)OP(=O)(O)OC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1OP(=O)(O)O)[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)Cc1c[nH]c2ccccc12,indaccoa_c,CHEBI:12755,60
+Isethionic acid,O=S(=O)(O)CCO,isetac_c,CHEBI:1157,7
+Isethionate C2H5O4S,O=S(=O)(O)CCO,istnt_c,CHEBI:1157,7
+Isovaleryl carnitine,CC(C)CC(=O)O[C@H](CC(=O)[O-])C[N+](C)(C)C,ivcrn_c,CHEBI:70819,17
+3-Deoxy-D-manno-2-octulosonate,O=C(O)[C@@]1(O)C[C@@H](O)[C@@H](O)[C@@H]([C@H](O)CO)O1,kdo_c,CHEBI:43577,16
+Lanthionine C6H12N2O4S,N[C@@H](CSC[C@H](N)C(=O)O)C(=O)O,lanth_c,CHEBI:21347,13
+Leucylglycine,CC(C)C[C@H]([NH3+])C(=O)NCC(=O)[O-],leugly_c,CHEBI:133658,13
+Lidocaine,CCN(CC)CC(=O)Nc1c(C)cccc1C,lido_c,CHEBI:6456,17
+Cold adapted KDO(2)-lipid (A),CCCCCC/C=C\CCCCCCCC(=O)O[C@H](CCCCCCCCCCC)CC(=O)N[C@H]1[C@H](OC[C@H]2O[C@H](OP(=O)([O-])[O-])[C@H](NC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H](OC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H]2O)O[C@H](CO[C@]2(C(=O)[O-])C[C@@H](O[C@]3(C(=O)[O-])C[C@@H](O)[C@@H](O)[C@@H]([C@H](O)CO)O3)[C@@H](O)[C@@H]([C@H](O)CO)O2)[C@@H](OP(=O)([O-])[O-])[C@@H]1OC(=O)C[C@@H](CCCCCCCCCCC)OC(=O)CCCCCCCCCCCCC,lipa_cold_c,CHEBI:61522,157
+Lipoyl-AMP,Nc1ncnc2c1ncn2[C@@H]1O[C@H](COP(=O)(O)OC(=O)CCCCC2CCSS2)[C@@H](O)[C@H]1O,lipoamp_c,CHEBI:55451,34
+Alpha-Linolenoyl-CoA,CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1OP(=O)(O)O,lnlncacoa_c,CHEBI:51985,67
+Lactyl-(2)-diphospho-(5')-guanosine,C[C@H](OP(=O)([O-])OP(=O)([O-])OC[C@H]1O[C@@H](n2cnc3c(=O)[nH]c(N)nc32)[C@H](O)[C@@H]1O)C(=O)[O-],lppg_c,CHEBI:59435,33
+L-Lyxose,OC1OC[C@H](O)[C@@H](O)[C@H]1O,lyx__L_c,CHEBI:62321,10
+M-toluate,Cc1cccc(C(=O)O)c1,m_tol_c,CHEBI:10589,10
+Malonyl-CoA methyl ester,COC(=O)CC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)([O-])OP(=O)([O-])OC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1OP(=O)([O-])[O-],malcoame_c,CHEBI:71242,55
+Maltose 6'-phosphate,O=P(O)(O)OC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O)C(O)O[C@@H]2CO)[C@H](O)[C@@H](O)[C@@H]1O,malt6p_c,CHEBI:111006,27
+Maltoheptaose,O=C[C@H](O)[C@@H](O)[C@H](O[C@H]1O[C@H](CO)[C@@H](O[C@H]2O[C@H](CO)[C@@H](O[C@H]3O[C@H](CO)[C@@H](O[C@H]4O[C@H](CO)[C@@H](O[C@H]5O[C@H](CO)[C@@H](O[C@H]6O[C@H](CO)[C@@H](O)[C@H](O)[C@H]6O)[C@H](O)[C@H]5O)[C@H](O)[C@H]4O)[C@H](O)[C@H]3O)[C@H](O)[C@H]2O)[C@H](O)[C@H]1O)[C@H](O)CO,malthp_c,CHEBI:62010,78
+Maltopentaose,OC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O)[C@@H](O[C@H]3[C@H](O)[C@@H](O)[C@@H](O[C@H]4[C@H](O)[C@@H](O)[C@@H](O[C@H]5[C@H](O)[C@@H](O)[C@@H](O)O[C@@H]5CO)O[C@@H]4CO)O[C@@H]3CO)O[C@@H]2CO)[C@H](O)[C@@H](O)[C@@H]1O,maltpt_c,CHEBI:61952,56
+Mannotetraose,OC[C@H]1O[C@@H](O[C@H]2[C@H](O)[C@H](O)[C@H](O[C@H]3[C@H](O)[C@H](O)[C@H](O[C@H]4[C@H](O)[C@H](O)C(O)O[C@@H]4CO)O[C@@H]3CO)O[C@@H]2CO)[C@@H](O)[C@@H](O)[C@@H]1O,manttr_c,CHEBI:62973,45
+"(2R,4S)-2-methyl-2,4-dihydroxydihydrofuran-3-one",C[C@@]1(O)OC[C@H](O)C1=O,mdhdhf_c,CHEBI:71316,9
+Monoethylglycinexylidide,CCNCC(=O)Nc1c(C)cccc1C,meglyxyl_c,CHEBI:222828,15
+Melibiose C12H22O11,OC[C@H]1O[C@H](OC[C@H]2O[C@@H](O)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@H]1O,melib_c,CHEBI:61827,23
+24-Methylenecycloartanol,C=C(CC[C@@H](C)[C@H]1CC[C@@]2(C)[C@@H]3CC[C@H]4C(C)(C)[C@@H](O)CC[C@@]45C[C@@]35CC[C@]12C)C(C)C,menecyart_c,CHEBI:1307,32
+Met His C11H18N4O3S,CSCC[C@H](N)C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)O,met_L_his__L_c,CHEBI:74703,19
+Met Met C10H20N2O3S2,CSCC[C@H](NC(=O)[C@@H](N)CCSC)C(=O)O,met_L_met__L_c,CHEBI:74707,17
+Met Phe C14H20N2O3S,CSCC[C@H](N)C(=O)N[C@@H](Cc1ccccc1)C(=O)O,met_L_phe__L_c,CHEBI:74708,20
+Met Tyr C14H20N2O4S,CSCC[C@H](N)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O,met_L_tyr__L_c,CHEBI:73615,21
+L-methionine-R-sulfoxide,C[S@@](=O)CC[C@H](N)C(=O)O,metsox_R__L_c,CHEBI:49032,10
+N5-methyl-tetrahydrosarcinapterin,C[C@@H]1Nc2nc(N)[nH]c(=O)c2N(C)[C@H]1[C@@H](C)Nc1ccc(C[C@H](O)[C@H](O)[C@H](O)CO[C@H]2O[C@H](COP(=O)([O-])O[C@@H](CCC(=O)[O-])C(=O)N[C@@H](CCC(=O)[O-])C(=O)[O-])[C@@H](O)[C@H]2O)cc1,mh4spt_c,CHEBI:64267,63
+Mn4+,[Mn+4],mn4_e,CHEBI:25158,1
+10-methylstearic acid,CCCCCCCCC(C)CCCCCCCCC(=O)O,mocdca_c,CHEBI:68565,21
+Molybdenum cofactor,*S[Mo]1(=O)(O)SC2=C(S1)[C@@H]1Nc3c(nc(N)[nH]c3=O)N[C@@H]1O[C@@H]2COP(=O)([O-])[O-],moco_c,CHEBI:60525,28
+Adenylated molybdopterin,Nc1nc2c(c(=O)[nH]1)N[C@H]1C(S)=C([S-])[C@@H](COP(=O)([O-])OP(=O)([O-])OC[C@H]3O[C@@H](n4cnc5c(N)ncnc54)[C@H](O)[C@@H]3O)O[C@H]1N2,mptamp_c,CHEBI:62727,46
+Menaquinol 6,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/Cc1c(C)c(O)c2ccccc2c1O,mql6_c,CHEBI:84536,43
+Menaquinol 7 C46H66O2,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/Cc1c(C)c(O)c2ccccc2c1O,mql7_c,CHEBI:64834,48
+Menaquinol 8,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/Cc1c(C)c(O)c2ccccc2c1O,mql8_c,CHEBI:61684,53
+Menaquinone 7 C46H64O2,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC1=C(C)C(=O)c2ccccc2C1=O,mqn7_c,CHEBI:44245,48
+Menaquinone 8,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC1=C(C)C(=O)c2ccccc2C1=O,mqn8_c,CHEBI:44027,53
+Methanesulfonate,CS(=O)(=O)[O-],mso3_c,CHEBI:25224,5
+"(2R,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran",C[C@@]1(O)OC[C@H](O)C1(O)O,mththf_c,CHEBI:44800,10
+3-methylthiopropionate,CSCCC(=O)O,mtpp_c,CHEBI:1438,7
+"N-3-aminopropyl-1,5-diaminopentane",[NH3+]CCCCC[NH2+]CCC[NH3+],na15dap_c,CHEBI:64858,11
+N-Formyl maleamic acid,O=CNC(=O)/C=C\C(=O)[O-],nfmalm_c,CHEBI:59911,10
+Nifedipine c,COC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1ccccc1[N+](=O)[O-],nifedipine_c,CHEBI:7565,25
+Nonanal C9H18O,CCCCCCCCC=O,nonal_c,CHEBI:84268,10
+9-O-Acetylated GD3,*C(=O)N[C@@H](CO[C@@H]1O[C@H](CO)[C@@H](O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O[C@]3(C(=O)O)C[C@H](O)[C@@H](NC(C)=O)[C@H]([C@H](O)[C@@H](CO)O[C@]4(C(=O)O)C[C@H](O)[C@@H](NC(C)=O)[C@H]([C@H](O)[C@H](O)COC(C)=O)O4)O3)[C@H]2O)[C@H](O)[C@H]1O)[C@H](O)/C=C/CCCCCCCCCCCCC,oagd3_cho_c,CHEBI:61730,88
+(11Z)-octadecenoyl-coa,CCCCCC/C=C\CCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)([O-])OP(=O)([O-])OC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1OP(=O)([O-])[O-],ocdcecoa_c,CHEBI:75121,67
+2-Oxopent-4-enoate,C=CCC(=O)C(=O)[O-],op4en_c,CHEBI:11641,8
+"1,2-ditetradecanoyl-sn-glycerol 3-phosphate",CCCCCCCCCCCCCC(=O)OCC(COP(=O)(O)O)OC(=O)CCCCCCCCCCCCC,pa140_c,CHEBI:62085,40
+"1,2-dihexadecanoyl-sn-glycerol 3-phosphate",CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)([O-])[O-])OC(=O)CCCCCCCCCCCCCCC,pa160_c,CHEBI:72859,44
+"1,2-dioctadecanoyl-sn-glycerol 3-phosphate",CCCCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)([O-])[O-])OC(=O)CCCCCCCCCCCCCCCCC,pa180_c,CHEBI:82921,48
+"Phosphatidylethanolamine (dihexadecanoyl, n-C16:0)",CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[NH3+])OC(=O)CCCCCCCCCCCCCCC,pe160_c,CHEBI:73005,47
+"Phosphatidylethanolamine (dioctadecanoyl, n-C18:0)",CCCCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[NH3+])OC(=O)CCCCCCCCCCCCCCCCC,pe180_c,CHEBI:39934,51
+Phosphatidylethanolamine (18:1(9Z)/18:1(9Z)),CCCCCCCC/C=C\CCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[NH3+])OC(=O)CCCCCCC/C=C\CCCCCCCC,pe1819Z1819Z_c,CHEBI:74986,51
+Penicilloic acid C9H12N2O5S,*C(=O)N[C@H](C(=O)[O-])[C@@H]1N[C@@H](C(=O)[O-])C(C)(C)S1,pencilca_c,CHEBI:62524,17
+Perillyl alcohol,C=C(C)[C@@H]1CC=C(CO)CC1,perillyl_c,CHEBI:10782,11
+"Phosphatidylglycerol (ditetradecanoyl, n-C14:0)",CCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OC[C@@H](O)CO)OC(=O)CCCCCCCCCCCCC,pg140_c,CHEBI:60723,45
+"Phosphatidylglycerol (dihexadecanoyl, n-C16:0)",CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)([O-])OC[C@@H](O)CO)OC(=O)CCCCCCCCCCCCCCC,pg160_c,CHEBI:72829,49
+Pheophorbide a,C=Cc1c(C)c2cc3nc(c4c5[nH]c(cc6nc(cc1[nH]2)C(C)=C6CC)c(C)c5C(=O)[C@@H]4C(=O)OC)[C@@H](CCC(=O)O)[C@@H]3C,phphbda_c,CHEBI:38257,44
+Phthiocerol A,CCCCCCCCCCCCCCCCCC[C@H](O)C[C@H](O)CCCC[C@@H](C)[C@H](CC)OC,phthiocerol_c,CHEBI:59240,34
+Peroxyaminoacrylate,N/C=C\C(=O)OO,poaac_c,CHEBI:59892,7
+Propanoyl phosphate,CCC(=O)OP(=O)([O-])[O-],ppap_c,CHEBI:58933,9
+Prephytoene diphosphate,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/C1C(COP(=O)(O)OP(=O)(O)O)C1(C)CC/C=C(\C)CC/C=C(\C)CCC=C(C)C,prephytedp_c,CHEBI:14885,49
+7-cyano-7-carbaguanine,N#Cc1c[nH]c2nc(N)[nH]c(=O)c12,preq0_c,CHEBI:45075,13
+7-aminomethyl-7-deazaguanine,NCc1c[nH]c2nc(N)[nH]c(=O)c12,preq1_c,CHEBI:45126,13
+Pristanal c,CC(C)CCCC(C)CCCC(C)CCCC(C)C=O,pristanal_c,CHEBI:49189,20
+L-Prolinylglycine,O=C(O)CNC(=O)[C@@H]1CCCN1,progly_c,CHEBI:61695,12
+"Phosphatidylserine (dihexadecanoyl, n-C16:0)",CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)([O-])OC[C@H]([NH3+])C(=O)[O-])OC(=O)CCCCCCCCCCCCCCC,ps160_c,CHEBI:111515,50
+"Phosphatidylserine (dioctadecanoyl, n-C18:0)",CCCCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OC[C@H](N)C(=O)O)OC(=O)CCCCCCCCCCCCCCCCC,ps180_c,CHEBI:84519,54
+Phosphatidylserine,*C(=O)OC[C@H](COP(=O)(O)OC[C@H](N)C(=O)O)OC(*)=O,ps_cho_c,CHEBI:11750,20
+Psicoselysine,[NH3+][C@@H](CCCC[NH2+]CC(=O)[C@H](O)[C@H](O)[C@H](O)CO)C(=O)[O-],psclys_c,CHEBI:61403,21
+Triaminopyrimidine triphosphate,c1ccc(-c2ccc(-c3ccccc3)cc2)cc1,ptp_c,CHEBI:52242,18
+Pyridoxamine,Cc1[nH+]cc(CO)c(C[NH3+])c1O,pydam_c,CHEBI:131533,12
+Pyridoxal,Cc1[nH+]cc(CO)c(C=O)c1O,pydx_c,CHEBI:131530,12
+Ubiquinol-10,COc1c(O)c(C)c(C/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CCC=C(C)C)c(O)c1OC,q10h2_c,CHEBI:64183,63
+Ubiquinone-8,COC1=C(OC)C(=O)C(C/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CCC=C(C)C)=C(C)C1=O,q8_c,CHEBI:61683,53
+Ubiquinol-8,COc1c(O)c(C)c(C/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CCC=C(C)C)c(O)c1OC,q8h2_c,CHEBI:61682,53
+Reduced riboflavin,Cc1cc2c(cc1C)N(C[C@H](O)[C@H](O)[C@H](O)CO)c1[nH]c(=O)[nH]c(=O)c1N2,rbflvrd_c,CHEBI:17607,27
+"N1-(alpha-D-ribosyl)-5,6-dimethylbenzimidazole",Cc1cc2ncn([C@H]3O[C@H](CO)[C@@H](O)[C@H]3O)c2cc1C,rdmbzi_c,CHEBI:10329,20
+Retinoate,CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CC(=O)[O-],retn_c,CHEBI:15036,22
+Reduced riboflavin C17H22N4O6,Cc1cc2c(cc1C)N(C[C@H](O)[C@H](O)[C@H](O)CO)c1[nH]c(=O)[nH]c(=O)c1N2,ribflvRD_c,CHEBI:17607,27
+Sulfur,[S],s_c,CHEBI:26833,1
+Salicin 6-phosphate,O=P([O-])([O-])OC[C@H]1O[C@@H](Oc2ccccc2CO)[C@H](O)[C@@H](O)[C@@H]1O,salcn6p_c,CHEBI:64794,24
+Se-Adenosylselenomethionine,C[Se+](CC[C@H]([NH3+])C(=O)[O-])C[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1O,seasmet_c,CHEBI:62227,27
+Sebacoyl Coenzyme A,CC(C)(COP(=O)([O-])OP(=O)([O-])OC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1OP(=O)([O-])[O-])[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)CCCCCCCCC(=O)[O-],sebcoa_c,CHEBI:76316,61
+Selenate,O=[Se](=O)([O-])[O-],sel_c,CHEBI:15075,5
+Selenide,[Se-2],seln_c,CHEBI:15076,1
+Ser Ala C6H12N2O4,C[C@H](NC(=O)[C@@H](N)CO)C(=O)O,ser_L_ala__L_c,CHEBI:74801,12
+Ser Gln C8H15N3O5,NC(=O)CC[C@H](NC(=O)[C@@H](N)CO)C(=O)O,ser_L_gln__L_c,CHEBI:74808,16
+Ser His C9H14N4O4,N[C@@H](CO)C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)O,ser_L_his__L_c,CHEBI:73651,17
+Ser Ile C9H18N2O4,CC[C@H](C)[C@H](NC(=O)[C@@H](N)CO)C(=O)O,ser_L_ile__L_c,CHEBI:90326,15
+Ser Leu C9H18N2O4,CC(C)C[C@H](NC(=O)[C@@H](N)CO)C(=O)O,ser_L_leu__L_c,CHEBI:74815,15
+Ser Met C8H16N2O4S,CSCC[C@H](NC(=O)[C@@H](N)CO)C(=O)O,ser_L_met__L_c,CHEBI:74817,15
+Ser Phe C12H16N2O4,N[C@@H](CO)C(=O)N[C@@H](Cc1ccccc1)C(=O)O,ser_L_phe__L_c,CHEBI:71029,18
+Ser Ser C6H12N2O5,N[C@@H](CO)C(=O)N[C@@H](CO)C(=O)O,ser_L_ser__L_c,CHEBI:73653,13
+Ser Tyr C12H16N2O5,N[C@@H](CO)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O,ser_L_tyr__L_c,CHEBI:73652,19
+Ser Val C8H16N2O4,CC(C)[C@H](NC(=O)[C@@H](N)CO)C(=O)O,ser_L_val__L_c,CHEBI:74823,14
+Sulfonated tetra-acyl trehalose,CCCCCCCCCCCCCCCC[C@H](C)C[C@H](C)C[C@H](C)C[C@H](C)C[C@H](C)C[C@H](C)C[C@H](C)C[C@H](C)C(=O)OC[C@H]1O[C@H](O[C@H]2O[C@H](COC(=O)[C@@H](C)C[C@@H](C)C[C@@H](C)C[C@@H](C)C[C@@H](C)C[C@@H](C)C[C@@H](C)C[C@@H](C)[C@H](O)CCCCCCCCCCCCCCC)[C@@H](O)[C@H](O)[C@H]2OS(=O)(=O)O)[C@H](OC(=O)CCCCCCCCCCCCCCC)[C@@H](OC(=O)[C@@H](C)C[C@@H](C)C[C@@H](C)C[C@@H](C)C[C@@H](C)C[C@@H](C)C[C@@H](C)C[C@@H](C)[C@H](O)CCCCCCCCCCCCCCC)[C@@H]1O,sl1_c,CHEBI:26828,169
+Sulfur dioxide,O=S=O,so2_c,CHEBI:18422,3
+L Sorbose C6H12O6,OC[C@@]1(O)OC[C@H](O)[C@@H](O)[C@@H]1O,srb__L_c,CHEBI:10295,12
+Sucrose 6-phosphate,O=P(O)(O)OC[C@H]1O[C@H](O[C@]2(CO)O[C@H](CO)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,suc6p_c,CHEBI:131603,27
+Triacylglycerol (16:0/18:1(9Z)/16:0),CCCCCCCC/C=C\CCCCCCCC(=O)OC(COC(=O)CCCCCCCCCCCCCCC)COC(=O)CCCCCCCCCCCCCCC,tag1601819Z160_c,CHEBI:75688,59
+Triacylglycerol (16:0/18:1(9Z)/18:0),CCCCCCCC/C=C\CCCCCCCC(=O)O[C@H](COC(=O)CCCCCCCCCCCCCCC)COC(=O)CCCCCCCCCCCCCCCCC,tag1601819Z180_c,CHEBI:77623,61
+Triacylglycerol (16:0/18:1(9Z)/18:1(9Z)),CCCCCCCC/C=C\CCCCCCCC(=O)OC[C@@H](COC(=O)CCCCCCCCCCCCCCC)OC(=O)CCCCCCC/C=C\CCCCCCCC,tag1601819Z1819Z_c,CHEBI:75847,61
+Triacylglycerol (18:0/18:1(9Z)/18:1(9Z)),CCCCCCCC/C=C\CCCCCCCC(=O)OC[C@@H](COC(=O)CCCCCCCCCCCCCCCCC)OC(=O)CCCCCCC/C=C\CCCCCCCC,tag1801819Z1819Z_c,CHEBI:89970,63
+Triacylglycerol (18:1(9Z)/18:1(9Z)/16:0),CCCCCCCC/C=C\CCCCCCCC(=O)OC[C@H](COC(=O)CCCCCCCCCCCCCCC)OC(=O)CCCCCCC/C=C\CCCCCCCC,tag1819Z1819Z160_c,CHEBI:75583,61
+Triacylglycerol (18:1(9Z)/18:1(9Z)/18:0),CCCCCCCC/C=C\CCCCCCCC(=O)OC[C@H](COC(=O)CCCCCCCCCCCCCCCCC)OC(=O)CCCCCCC/C=C\CCCCCCCC,tag1819Z1819Z180_c,CHEBI:77686,63
+Tricarballylate,O=C(O)CC(CC(=O)O)C(=O)O,tcb_c,CHEBI:45969,12
+Taurodeoxycholate,C[C@H](CCC(=O)NCCS(=O)(=O)[O-])[C@H]1CC[C@H]2[C@@H]3CC[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,tdechola_c,CHEBI:36261,34
+Tdp,Cc1cn([C@@H]2O[C@H](COP(=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]2O)c(=O)[nH]c1=O,tdp_c,CHEBI:61377,26
+Thioguanine,Nc1nc2[nH]cnc2c(=S)[nH]1,tgua_c,CHEBI:9555,11
+"2,3,4,5-Tetrahydrodipicolinate",O=C([O-])C1=NC(C(=O)[O-])CCC1,thdp_c,CHEBI:11408,12
+Tetrahydromonapterin,Nc1nc2c(c(=O)[nH]1)NC([C@H](O)[C@@H](O)CO)CN2,thmnp_c,CHEBI:71177,18
+Thr Gln C9H17N3O5,C[C@@H](O)[C@H](N)C(=O)N[C@@H](CCC(N)=O)C(=O)O,thr_L_gln__L_c,CHEBI:74855,17
+Thr Leu C10H20N2O4,CC(C)C[C@H](NC(=O)[C@@H](N)[C@@H](C)O)C(=O)O,thr_L_leu__L_c,CHEBI:74860,16
+Thr Met C9H18N2O4S,CSCC[C@H](NC(=O)[C@@H](N)[C@@H](C)O)C(=O)O,thr_L_met__L_c,CHEBI:74861,16
+Thr Phe C13H18N2O4,C[C@@H](O)[C@H](N)C(=O)N[C@@H](Cc1ccccc1)C(=O)O,thr_L_phe__L_c,CHEBI:74862,19
+Thr Thr C8H16N2O5,C[C@@H](O)[C@H](N)C(=O)N[C@H](C(=O)O)[C@@H](C)O,thr_L_thr__L_c,CHEBI:73665,15
+(-)threo-iso(homo)2citrate,O=C(O)CCC[C@H](C(=O)O)[C@@H](O)C(=O)O,tih2cit_c,CHEBI:72713,15
+Tridecanoate C13H25O2,CCCCCCCCCCCCC(=O)[O-],trdca_c,CHEBI:125832,15
+Tridecanal C13H26O,CCCCCCCCCCCCC=O,trdcal_c,CHEBI:89816,14
+Trehalose 2 sulfate,O=S(=O)([O-])O[C@H]1[C@@H](O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)O[C@H](CO)[C@@H](O)[C@@H]1O,tres_c,CHEBI:60091,27
+Tetradecanal C14H28O,CCCCCCCCCCCCCC=O,ttdcal_c,CHEBI:84067,15
+Tetradecanoyl carnitine,CCCCCCCCCCCCCC(=O)O[C@H](CC(=O)[O-])C[N+](C)(C)C,ttdcrn_c,CHEBI:84634,26
+"UDP-2,3-bis(3-hydroxytetradecanoyl)glucosamine",CCCCCCCCCCC[C@@H](O)CC(=O)N[C@H]1[C@@H](OP(=O)([O-])OP(=O)([O-])OC[C@H]2O[C@@H](n3ccc(=O)[nH]c3=O)[C@H](O)[C@@H]2O)O[C@H](CO)[C@@H](O)[C@@H]1OC(=O)C[C@H](O)CCCCCCCCCCC,u23ga_c,CHEBI:78847,68
+UDP-3-O-(3-hydroxytetradecanoyl)-N-acetylglucosamine,CCCCCCCCCCC[C@@H](O)CC(=O)O[C@H]1[C@H](O)[C@@H](CO)O[C@H](OP(=O)([O-])OP(=O)([O-])OC[C@H]2O[C@@H](n3ccc(=O)[nH]c3=O)[C@H](O)[C@@H]2O)[C@@H]1NC(C)=O,u3aga_c,CHEBI:61494,55
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysine,CC(=O)N[C@H]1[C@@H](OP(=O)(O)OP(=O)(O)OC[C@H]2O[C@@H](n3ccc(=O)[nH]c3=O)[C@H](O)[C@@H]2O)O[C@H](CO)[C@@H](O)[C@@H]1O[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](CCC(=O)O)C(=O)N[C@@H](CCCCN)C(=O)O,uAgl_c,CHEBI:9837,67
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine,CC(=O)N[C@H]1[C@@H](OP(=O)([O-])OP(=O)([O-])OC[C@H]2O[C@@H](n3ccc(=O)[nH]c3=O)[C@H](O)[C@@H]2O)O[C@H](CO)[C@@H](O)[C@@H]1O[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](CCC(=O)N[C@@H](CCCC[NH3+])C(=O)N[C@H](C)C(=O)N[C@H](C)C(=O)[O-])C(=O)[O-],uAgla_c,CHEBI:70758,77
+"Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine",CC(=O)N[C@H]1[C@@H](OP(=O)([O-])OP(=O)([O-])OC/C=C(/C)CC/C=C(/C)CC/C=C(/C)CC/C=C(/C)CC/C=C(/C)CC/C=C(/C)CC/C=C(/C)CC/C=C(/C)CC/C=C(\C)CC/C=C(\C)CCC=C(C)C)O[C@H](CO)[C@@H](O)[C@@H]1O[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](CCC(=O)N[C@@H](CCC[C@@H]([NH3+])C(=O)[O-])C(=O)N[C@H](C)C(=O)N[C@H](C)C(=O)[O-])C(=O)[O-],uagmda_c,CHEBI:61387,119
+Undecanoate C11H21O2,CCCCCCCCCCC(=O)O,udca_c,CHEBI:32368,13
+Undecanal C11H22O,CCCCCCCCCCC=O,udcal_c,CHEBI:46202,12
+Uridine 5''-diphospho-{beta}-4-deoxy-4-formamido-L-arabinose,O=CN[C@H]1CO[C@H](OP(=O)(O)OP(=O)(O)OC[C@H]2O[C@@H](n3ccc(=O)[nH]c3=O)[C@H](O)[C@@H]2O)[C@H](O)[C@H]1O,udpLa4fn_c,CHEBI:47027,36
+Uridine 5''-diphospho-{beta}-4-deoxy-4-amino-L-arabinose,N[C@H]1CO[C@H](OP(=O)(O)OP(=O)(O)OC[C@H]2O[C@@H](n3ccc(=O)[nH]c3=O)[C@H](O)[C@@H]2O)[C@H](O)[C@H]1O,udpLa4n_c,CHEBI:47025,34
+UDP-4-keto-pyranose,O=C1CO[C@H](OP(=O)(O)OP(=O)(O)OC[C@H]2O[C@@H](n3ccc(=O)[nH]c3=O)[C@H](O)[C@@H]2O)[C@H](O)[C@H]1O,udpLa4o_c,CHEBI:47028,34
+"UDP-D-galacto-1,4-furanose",O=c1ccn([C@@H]2O[C@H](COP(=O)([O-])OP(=O)([O-])O[C@H]3O[C@@H]([C@H](O)CO)[C@H](O)[C@H]3O)[C@@H](O)[C@H]2O)c(=O)[nH]1,udpgalfur_c,CHEBI:66915,36
+UDP-glucosamine,N[C@H]1[C@@H](OP(=O)(O)OP(=O)(O)OC[C@H]2O[C@@H](n3ccc(=O)[nH]c3=O)[C@H](O)[C@@H]2O)O[C@H](CO)[C@@H](O)[C@@H]1O,ugam_c,CHEBI:13497,36
+Undecaprenyl diphospho N-acetyl-glucosamine,CC(=O)N[C@H]1[C@@H](OP(=O)(O)OP(=O)(O)OC/C=C(/C)CC/C=C(/C)CC/C=C(/C)CC/C=C(/C)CC/C=C(/C)CC/C=C(/C)CC/C=C(/C)CC/C=C(/C)CC/C=C(\C)CC/C=C(\C)CCC=C(C)C)O[C@H](CO)[C@@H](O)[C@@H]1O,unaga_c,CHEBI:62958,78
+Undecaprenyl-diphospho-N-acetylglucosamine-N-acetylmannosaminuronate,CC(=O)N[C@@H]1[C@H](O[C@H]2[C@H](O)[C@@H](NC(C)=O)[C@@H](OP(=O)([O-])OP(=O)([O-])OC/C=C(/C)CC/C=C(/C)CC/C=C(/C)CC/C=C(/C)CC/C=C(/C)CC/C=C(/C)CC/C=C(/C)CC/C=C(/C)CC/C=C(\C)CC/C=C(\C)CCC=C(C)C)O[C@@H]2CO)O[C@H](C(=O)[O-])[C@@H](O)[C@@H]1O,unagamu_c,CHEBI:61495,93
+Ureidoacrylate peracid,NC(=O)N/C=C\C(=O)OO,uracp_c,CHEBI:59889,10
+XDP,O=c1[nH]c(=O)c2ncn([C@@H]3O[C@H](COP(=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]3O)c2[nH]1,xdp_c,CHEBI:10048,28
+XTP,O=c1[nH]c(=O)c2ncn([C@@H]3O[C@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]3O)c2[nH]1,xtp_c,CHEBI:10049,32
+Xylotriose,O[C@@H]1[C@@H](O)[C@H](O[C@@H]2CO[C@@H](O[C@@H]3CO[C@@H](O)[C@H](O)[C@H]3O)[C@H](O)[C@H]2O)OC[C@H]1O,xyl3_c,CHEBI:62797,28
+Xylotetraose,OC1OC[C@@H](O[C@@H]2OC[C@@H](O[C@@H]3OC[C@@H](O[C@@H]4OC[C@@H](O)[C@H](O)[C@H]4O)[C@H](O)[C@H]3O)[C@H](O)[C@H]2O)[C@H](O)[C@H]1O,xyl4_c,CHEBI:62972,37
+D-Xylose,OC1OC[C@@H](O)[C@H](O)[C@H]1O,xyl__D_c,CHEBI:53455,10

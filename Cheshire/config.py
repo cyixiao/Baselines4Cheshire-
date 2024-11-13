@@ -17,4 +17,7 @@ def parse():
     parser.add_argument('--name', type=str, default='iE2348C_1286')
     parser.add_argument('--seed', type=int, default=42)
     parser.add_argument('--model', type=str, default='NHP')
+    parser.add_argument('--recover', action='store_true')
+    parser.add_argument('--train_split', type=float, default=0.6)
+    parser.add_argument('--remove', type=str, default="80%")
     return parser.parse_args()

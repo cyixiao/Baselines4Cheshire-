@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "/nas/longleaf/home/cyixiao/Project/Cheshire/main.py", line 1, in <module>
-    from predict import *
-  File "/nas/longleaf/home/cyixiao/Project/Cheshire/predict.py", line 3, in <module>
-    from CHESHIRE import CHESHIRE
-  File "/nas/longleaf/home/cyixiao/Project/Cheshire/CHESHIRE.py", line 4, in <module>
-    from torch_scatter import scatter
-ModuleNotFoundError: No module named 'torch_scatter'

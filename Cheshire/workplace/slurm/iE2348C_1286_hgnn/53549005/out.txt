@@ -1,2 +1,0 @@
-y_pred: tensor([[0.4936]], device='cuda:0', grad_fn=<SigmoidBackward0>)
-y shape: torch.Size([3242])

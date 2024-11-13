@@ -1,3 +1,0 @@
-y_pred: tensor([0.5122, 0.5097, 0.5104,  ..., 0.5087, 0.5065, 0.5111], device='cuda:0',
-       grad_fn=<SqueezeBackward0>)
-y shape: torch.Size([3242])
